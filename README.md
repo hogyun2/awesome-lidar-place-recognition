@@ -1,1 +1,1 @@
-# awesome-lidar-place-recognition
+# Awesome-LiDAR-Place-Recognition [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
