@@ -12,7 +12,10 @@ __`Learning.`__
 - __`2024.`__
 - __`2023.`__
 
-## LiDAR Place Recognition + Algorithms (e.g. Odometry, Multi-Robot Mapping)
+## LiDAR Place Recognition + Algorithms
+__`Odometry.`__
+__`Multi-Robot Mapping.`__
+
 
 ## LiDAR Place Recognition Datasets
 - __`single session`__
