@@ -2,15 +2,13 @@
 ![image](awesome-lidar-place-recognition.gif)
 >Thumbnail Figures from Complex Urban, Wild-Places, and DiTer datasets / our place recognition method (TBD) / DiSCo-SLAM.  
 
+This repository is the collection of LiDAR Place Recognition Research that provides a code or a download page, together. This repository also reports the datasets for Place Recognition and various algorithms utilized in Place Recognition (e.g. multi-robot mapping, SLAM).
+
 LiDAR Place Recognition can be broadly categorized into **[handcrafted]**-based and **[learning]**-based methods. 
 
 Datasets for LiDAR Place Recognition are classified into **[single-session]** and **[multi-session]**. Additionally, it is possible to confirm which **[LiDAR]** was used and which vehicle was utilized (🚙 🤖 🛩️ 🚢).
 
 Finally, various algorithms that play an important role in Place Recognition are introduced.
-
-This repository is the collection of LiDAR Place Recognition Research that provides a code, together. This repository also reports the datasets for Place Recognition and various algorithms utilized in Place Recognition (e.g. multi-robot mapping, SLAM).
-
-
 
 🔥 represents that a paper citation count of 50 or more, or a code's star count of 50 or more.
 
