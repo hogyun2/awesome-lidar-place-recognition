@@ -7,7 +7,7 @@ This repository is the collection of LiDAR Place Recognition Research that provi
 
 
 ## News!
-__`[24.04.01]`__ First commit! 
+__`[24.03.20]`__ First commit! 
 
 ## LiDAR Place Recognition Methods
 - __`2024`__
@@ -96,3 +96,9 @@ __`[24.04.01]`__ First commit!
 
 - __`2022`__
   -  __`[Multi-Robot SLAM]`__ __`[RAL]`__ DiSCo-SLAM: Distributed Scan Context-Enabled Multi-Robot LiDAR SLAM With Two-Stage Global-Local Graph Optimization [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9662965)] [[code](https://github.com/RobustFieldAutonomyLab/DiSCo-SLAM)] 🔥
+
+## Contributing
+Please Feel free to send a [pull request](https://github.com/hogyun2/awesome-lidar-place-recognition/pulls) to modify the list or add datasets.
+
+## Contact
+- Hogyun Kim (hg.kim@inha.edu)
