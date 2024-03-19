@@ -124,64 +124,64 @@ Finally, **various algorithms** that play an important role in Place Recognition
 ## LiDAR Place Recognition Datasets
 
 - 2024
-  - [Single/Multi] [IJRR] [OS2-128] [VLP-16] [Avia] [Aeva] Heterogeneous LiDAR Dataset for inter-LiDAR Place Recognition [[pdf](https://arxiv.org/pdf/2309.14590.pdf)] [[download](https://sites.google.com/view/heliprdataset)] 🚙
+  - **`Single/Multi`** **`IJRR`** **`OS2-128`** **`VLP-16`** **`Livox-Avia`** **`Aeva`** Heterogeneous LiDAR Dataset for inter-LiDAR Place Recognition [[pdf](https://arxiv.org/pdf/2309.14590.pdf)] [[download](https://sites.google.com/view/heliprdataset)] 🚙
   
-  - [Single/Multi] [IEEE Sensors Letter] [OS1-64] [OS1-32] DiTer: Diverse Terrain and Multi-Modal Dataset for Field Robot Navigation in Outdoor Environments [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10416213)] [[download](https://sites.google.com/view/diter-dataset/)] 🚙
+  - **`Single/Multi`** **`IEEE Sensors Letter`** **`OS1-64`** **`OS1-32`** DiTer: Diverse Terrain and Multi-Modal Dataset for Field Robot Navigation in Outdoor Environments [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10416213)] [[download](https://sites.google.com/view/diter-dataset/)] 🚙
   
-  - [Multi] [RAL] [VLP-16] [Avia] BotanicGarden: A High-Quality Dataset for Robot Navigation in Unstructured Natural Environments [[pdf](https://arxiv.org/pdf/2306.14137.pdf)] [[download](https://github.com/robot-pesg/BotanicGarden)] 🤖
+  - **`Multi`** **`RAL`** **`VLP-16`** **`Livox-Avia`** BotanicGarden: A High-Quality Dataset for Robot Navigation in Unstructured Natural Environments [[pdf](https://arxiv.org/pdf/2306.14137.pdf)] [[download](https://github.com/robot-pesg/BotanicGarden)] 🤖
 
 
 - 2023
 
-  - [Single/Multi] [ICRA] [VLP-16] Wild-Places: A Large-Scale Dataset for Lidar Place Recognition in Unstructured Natural Environments [[pdf](https://arxiv.org/pdf/2211.12732.pdf)] [[download](https://csiro-robotics.github.io/Wild-Places/)] 🧔
+  - **`Single/Multi`** **`ICRA`** **`VLP-16`** Wild-Places: A Large-Scale Dataset for Lidar Place Recognition in Unstructured Natural Environments [[pdf](https://arxiv.org/pdf/2211.12732.pdf)] [[download](https://csiro-robotics.github.io/Wild-Places/)] 🧔
 
-  - [Multi] [IROS-workshop] [Mid-70] ConPR: Ongoing Construction Site Dataset for Place Recognition [[pdf](https://oravus.github.io/vpr-workshop/assets/accepted_papers/1_conpr_ongoing_construction_sit.pdf)] [[download](https://github.com/dongjae0107/ConPR)] 🧔
+  - **`Multi`** **`IROS-workshop`** **`Mid-70`** ConPR: Ongoing Construction Site Dataset for Place Recognition [[pdf](https://oravus.github.io/vpr-workshop/assets/accepted_papers/1_conpr_ongoing_construction_sit.pdf)] [[download](https://github.com/dongjae0107/ConPR)] 🧔
 
-  - [Multi] [IJRR] [VLP-128] Boreas: A Multi-Season Autonomous Driving Dataset [[pdf](https://arxiv.org/pdf/2203.10168.pdf)] [[download](https://www.boreas.utias.utoronto.ca/#/)] 🚙
+  - **`Multi`** **`IJRR`** **`VLP-128`** Boreas: A Multi-Season Autonomous Driving Dataset [[pdf](https://arxiv.org/pdf/2203.10168.pdf)] [[download](https://www.boreas.utias.utoronto.ca/#/)] 🚙
 
-  - [Multi] [ISVC] [VLP-16] Multimodal Dataset for Localization, Mapping and Crop Monitoring in Citrus Tree Farms [[pdf](https://arxiv.org/pdf/2309.15332.pdf)] [[download](https://ucr-robotics.github.io/Citrus-Farm-Dataset/)] 🤖
+  - **`Multi`** **`ISVC`** **`VLP-16`** Multimodal Dataset for Localization, Mapping and Crop Monitoring in Citrus Tree Farms [[pdf](https://arxiv.org/pdf/2309.15332.pdf)] [[download](https://ucr-robotics.github.io/Citrus-Farm-Dataset/)] 🤖
 
-  - [Multi] [RAL] [VLP-16] GRACO: A Multimodal Dataset for Ground and Aerial Cooperative Localization and Mapping [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10008011)] [[download](https://sites.google.com/view/graco-dataset)] 🛩️ 🤖
+  - **`Multi`** **`RAL`** **`VLP-16`** GRACO: A Multimodal Dataset for Ground and Aerial Cooperative Localization and Mapping [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10008011)] [[download](https://sites.google.com/view/graco-dataset)] 🛩️ 🤖
 
-  - [Multi] [IJRR] [OS1-64] [OS1-32] Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters [[pdf](https://arxiv.org/abs/2303.05555)] [[download](https://sites.google.com/view/pohang-canal-dataset)] 🚢
+  - **`Multi`** **`IJRR`** **`OS1-64`** **`OS1-32`** Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters [[pdf](https://arxiv.org/abs/2303.05555)] [[download](https://sites.google.com/view/pohang-canal-dataset)] 🚢
 
-  - [Multi-Robot] [Arxiv] [VLP-16] S3E: A Large-scale Multimodal Dataset for Collaborative SLAM [[pdf](https://arxiv.org/pdf/2210.13723.pdf)] [[download](https://github.com/PengYu-Team/S3E)] 🤖
+  - **`Multi-Robot`** **`Arxiv`** **`VLP-16`** S3E: A Large-scale Multimodal Dataset for Collaborative SLAM [[pdf](https://arxiv.org/pdf/2210.13723.pdf)] [[download](https://github.com/PengYu-Team/S3E)] 🤖
 
-  - [Multi-Robot] [Arxiv] [VLP-16] Resilient and Distributed Multi-Robot Visual SLAM: Datasets, Experiments, and Lessons Learned [[pdf](https://arxiv.org/pdf/2304.04362.pdf)] [[download](https://github.com/MIT-SPARK/Kimera-Multi-Data)] 🤖
+  - **`Multi-Robot`** **`Arxiv`** **`VLP-16`** Resilient and Distributed Multi-Robot Visual SLAM: Datasets, Experiments, and Lessons Learned [[pdf](https://arxiv.org/pdf/2304.04362.pdf)] [[download](https://github.com/MIT-SPARK/Kimera-Multi-Data)] 🤖
 
 
 - 2022
 
-  - [Multi-Robot] [RAL] [VLP-16] DiSCo-SLAM: Distributed Scan Context-Enabled Multi-Robot LiDAR SLAM With Two-Stage Global-Local Graph Optimization [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9662965)] [[code](https://github.com/RobustFieldAutonomyLab/DiSCo-SLAM)] 🤖
+  - **`Multi-Robot`** **`RAL`** **`VLP-16`** DiSCo-SLAM: Distributed Scan Context-Enabled Multi-Robot LiDAR SLAM With Two-Stage Global-Local Graph Optimization [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9662965)] [[code](https://github.com/RobustFieldAutonomyLab/DiSCo-SLAM)] 🤖
 
 
 - 2021
 
-    - [Single] [ICRA] [OS1-128] Robust Place Recognition using an Imaging Lidar [[pdf](https://arxiv.org/pdf/2103.02111.pdf)] [[code](https://github.com/TixiaoShan/imaging_lidar_place_recognition)] 🧔
+    - **`Single`** **`ICRA`** **`OS1-128`** Robust Place Recognition using an Imaging Lidar [[pdf](https://arxiv.org/pdf/2103.02111.pdf)] [[code](https://github.com/TixiaoShan/imaging_lidar_place_recognition)] 🧔
 
 
 - 2020
 
-  - [Single/Multi] [ICRA] [OS1-64] Multimodal Range Dataset for Urban Place Recognition [[pdf](https://rpm.snu.ac.kr/publications/gskim-2020-icra.pdf)] [[download](https://sites.google.com/view/mulran-pr)] 🚙
+  - **`Single/Multi`** **`ICRA`** **`OS1-64`** Multimodal Range Dataset for Urban Place Recognition [[pdf](https://rpm.snu.ac.kr/publications/gskim-2020-icra.pdf)] [[download](https://sites.google.com/view/mulran-pr)] 🚙
 
-  - [Single/Multi] [ICRA] [HDL-32] The Oxford Radar RobotCar Dataset: A Radar Extension to the Oxford RobotCar Dataset [[pdf](https://arxiv.org/pdf/1909.01300.pdf)] [[download](https://oxford-robotics-institute.github.io/radar-robotcar-dataset/)] 🚙
+  - **`Single/Multi`** **`ICRA`** **`HDL-32`** The Oxford Radar RobotCar Dataset: A Radar Extension to the Oxford RobotCar Dataset [[pdf](https://arxiv.org/pdf/1909.01300.pdf)] [[download](https://oxford-robotics-institute.github.io/radar-robotcar-dataset/)] 🚙
 
-  - [Single/Multi] [IROS] [HDL-32] EU Long-term Dataset with Multiple Sensors for Autonomous Driving [[pdf](https://arxiv.org/pdf/1909.03330.pdf)] [[download](https://epan-utbm.github.io/utbm_robocar_dataset/)] 🚙
+  - **`Single/Multi`** **`IROS`** **`HDL-32`** EU Long-term Dataset with Multiple Sensors for Autonomous Driving [[pdf](https://arxiv.org/pdf/1909.03330.pdf)] [[download](https://epan-utbm.github.io/utbm_robocar_dataset/)] 🚙
 
 
 - 2019
 
-  - [Single] [IJRR] [VLP-16] Complex urban dataset with multi-level sensors from highly diverse urban environments [[pdf](https://journals.sagepub.com/doi/pdf/10.1177/0278364919843996)] [[download](https://sites.google.com/view/complex-urban-dataset/system?authuser=0)] 🚙
+  - **`Single`** **`IJRR`** **`VLP-16`** Complex urban dataset with multi-level sensors from highly diverse urban environments [[pdf](https://journals.sagepub.com/doi/pdf/10.1177/0278364919843996)] [[download](https://sites.google.com/view/complex-urban-dataset/system?authuser=0)] 🚙
 
 
 - 2016
 
-  - [Multi] [IJRR] [HDL-32] North Campus Long-Term Vision and Lidar Dataset [[pdf](http://robots.engin.umich.edu/nclt/nclt.pdf)] [[download](http://robots.engin.umich.edu/nclt/)] 🤖
+  - **`Multi`** **`IJRR`** **`HDL-32`** North Campus Long-Term Vision and Lidar Dataset [[pdf](http://robots.engin.umich.edu/nclt/nclt.pdf)] [[download](http://robots.engin.umich.edu/nclt/)] 🤖
 
 
 - 2013
 
-  - [Single] [IJRR] [HDL-64] Vision meets Robotics: The KITTI Dataset [[pdf](https://journals.sagepub.com/doi/epub/10.1177/0278364913491297)] [[download](https://www.cvlibs.net/datasets/kitti/raw_data.php)] 🚙
+  - **`Single`** **`IJRR`** **`HDL-64`** Vision meets Robotics: The KITTI Dataset [[pdf](https://journals.sagepub.com/doi/epub/10.1177/0278364913491297)] [[download](https://www.cvlibs.net/datasets/kitti/raw_data.php)] 🚙
 
 
 
@@ -189,16 +189,16 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 - 2023
 
-  - [Multi-Robot SLAM] [IEEE Sensors Journal] DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10375928)] [[code](https://github.com/PengYu-Team/DCL-SLAM)] 🔥
+  - **`Multi-Robot SLAM`** **`IEEE Sensors Journal`** DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10375928)] [[code](https://github.com/PengYu-Team/DCL-SLAM)] 🔥
 
 
 - 2022
 
-  - [Multi-Robot SLAM] [RAL] DiSCo-SLAM: Distributed Scan Context-Enabled Multi-Robot LiDAR SLAM With Two-Stage Global-Local Graph Optimization [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9662965)] [[code](https://github.com/RobustFieldAutonomyLab/DiSCo-SLAM)] 🔥
+  - **`Multi-Robot SLAM`** **`RAL`** DiSCo-SLAM: Distributed Scan Context-Enabled Multi-Robot LiDAR SLAM With Two-Stage Global-Local Graph Optimization [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9662965)] [[code](https://github.com/RobustFieldAutonomyLab/DiSCo-SLAM)] 🔥
 
-  - [Mapping Framework] [ICRA] LT-mapper: A Modular Framework for LiDAR-based Lifelong Mapping [[pdf](https://arxiv.org/pdf/2107.07712.pdf)] [[code](https://github.com/gisbi-kim/lt-mapper)] 🔥
+  - **`Mapping Framework`** **`ICRA`** LT-mapper: A Modular Framework for LiDAR-based Lifelong Mapping [[pdf](https://arxiv.org/pdf/2107.07712.pdf)] [[code](https://github.com/gisbi-kim/lt-mapper)] 🔥
 
-  - [SLAM Framework] [ICEIC] SC-LiDAR-SLAM: A Front-end Agnostic Versatile LiDAR SLAM System [[pdf](https://arxiv.org/pdf/2201.06423.pdf)] [[SC-A-LOAM](https://github.com/gisbi-kim/SC-A-LOAM)] [[SC-LeGO-LOAM](https://github.com/gisbi-kim/SC-LeGO-LOAM)] [[SC-LIO-SAM](https://github.com/gisbi-kim/SC-LIO-SAM)] [[FAST-LIO-SLAM](https://github.com/gisbi-kim/FAST_LIO_SLAM)] 🔥
+  - **`SLAM Framework`** **`ICEIC`** SC-LiDAR-SLAM: A Front-end Agnostic Versatile LiDAR SLAM System [[pdf](https://arxiv.org/pdf/2201.06423.pdf)] [[SC-A-LOAM](https://github.com/gisbi-kim/SC-A-LOAM)] [[SC-LeGO-LOAM](https://github.com/gisbi-kim/SC-LeGO-LOAM)] [[SC-LIO-SAM](https://github.com/gisbi-kim/SC-LIO-SAM)] [[FAST-LIO-SLAM](https://github.com/gisbi-kim/FAST_LIO_SLAM)] 🔥
 
 
 
