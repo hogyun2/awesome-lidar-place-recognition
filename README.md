@@ -7,7 +7,6 @@ __`[24.04.01]`__ First commit!
 - __`2024`__
   -  __`[Handcraft]`__ __`[ICRA]`__ Effectively Detecting Loop Closures using Point Cloud Density Maps [[pdf](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/gupta2024icra.pdf)] [[code](https://github.com/PRBonn/MapClosures)]
   -  __`[Handcraft]`__ __`[❓]`__ BTC: A Binary and Triangle Combined Descriptor for 3D Place Recognition` [under-review] [[code](https://github.com/hku-mars/btc_descriptor)]
-  -  __`[Handcraft]`__ __`[TIV]`__ Omni Point: 3D LiDAR-based Feature Extraction Method for Place Recognition and Point Registration [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10378877)]
 
 - __`2023`__
   -  __`[Handcraft]`__ __`[TRO]`__ RING++: Roto-Translation-Invariant Gram for Global Localization on a Sparse Scan Map [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10224330)] [[code](https://github.com/lus6-Jenny/RING)]
