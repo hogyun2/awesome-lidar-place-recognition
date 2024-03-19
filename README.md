@@ -80,6 +80,9 @@ __`[24.03.20]`__ First commit!
   -  __`[Multi-Robot]`__  __`[Arxiv]`__ __`[VLP-16]`__ S3E: A Large-scale Multimodal Dataset for Collaborative SLAM [[pdf](https://arxiv.org/pdf/2210.13723.pdf)] [[download](https://github.com/PengYu-Team/S3E)] 🤖
   -  __`[Multi-Robot]`__  __`[Arxiv]`__ Resilient and Distributed Multi-Robot Visual SLAM: Datasets, Experiments, and Lessons Learned [[pdf](https://arxiv.org/pdf/2304.04362.pdf)] [[download](https://github.com/MIT-SPARK/Kimera-Multi-Data)] 🤖
 
+- __`2021`__
+    -  __`[Single]`__ __`[ICRA]`__ Robust Place Recognition using an Imaging Lidar [[pdf](https://arxiv.org/pdf/2103.02111.pdf)] [[code](https://github.com/TixiaoShan/imaging_lidar_place_recognition)] 🧔
+
 - __`2020`__
   -  __`[Single/Multi]`__ __`[ICRA]`__ __`[OS1-64]`__ Multimodal Range Dataset for Urban Place Recognition [[pdf](https://rpm.snu.ac.kr/publications/gskim-2020-icra.pdf)] [[download](https://sites.google.com/view/mulran-pr)] 🚙
   -  __`[Single/Multi]`__ __`[ICRA]`__ __`[HDL-32]`__ The Oxford Radar RobotCar Dataset: A Radar Extension to the Oxford RobotCar Dataset [[pdf](https://arxiv.org/pdf/1909.01300.pdf)] [[download](https://oxford-robotics-institute.github.io/radar-robotcar-dataset/)] 🚙
