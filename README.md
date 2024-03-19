@@ -12,6 +12,7 @@ __`[24.04.01]`__ First commit!
 - __`2023`__
   -  __`[Handcraft]`__ __`[TRO]`__ RING++: Roto-Translation-Invariant Gram for Global Localization on a Sparse Scan Map [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10224330)] [[code](https://github.com/lus6-Jenny/RING)]
   -  __`[Handcraft]`__ __`[ICRA]`__ STD: A Stable Triangle Descriptor for 3D place recognition [[pdf](https://arxiv.org/pdf/2209.12435.pdf)] [[code](https://github.com/hku-mars/STD)]
+  -  __`[Learning]`__ __`[ICCV]`__ BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images [[pdf](https://arxiv.org/pdf/2302.14325.pdf)] [[code](https://github.com/zjuluolun/BEVPlace)]
 
 - __`2022`__
     -  __`[Handcraft]`__ __`[IROS]`__ One RING to Rule Them All: Radon Sinogram for Place Recognition, Orientation and Translation Estimation [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981308)] [[code](https://github.com/lus6-Jenny/RING)] 🔥
