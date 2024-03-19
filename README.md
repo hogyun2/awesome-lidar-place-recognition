@@ -47,6 +47,8 @@ __`[24.04.01]`__ First commit!
 
 
 ## LiDAR Place Recognition Utils
-- __`SLAM`__
+- __`2023`__
+  -  __`[Multi-Robot]`__ __`[IEEE Sensors Journal]`__ DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10375928)] [[code](https://github.com/PengYu-Team/DCL-SLAM)] 🔥
+
 - __`2022`__
   -  __`[Multi-Robot]`__ __`[RAL]`__ DiSCo-SLAM: Distributed Scan Context-Enabled Multi-Robot LiDAR SLAM With Two-Stage Global-Local Graph Optimization [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9662965)] [[code](https://github.com/RobustFieldAutonomyLab/DiSCo-SLAM)] 🔥
