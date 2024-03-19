@@ -47,7 +47,7 @@ __`[24.04.01]`__ First commit!
 
 ## LiDAR Place Recognition Datasets
 - __`2024`__
-  -  __`[Single/Multi]`__ __`[IJRR]`__ Heterogeneous LiDAR Dataset for inter-LiDAR Place Recognition [[pdf](https://arxiv.org/pdf/2309.14590.pdf)] [[download](https://sites.google.com/view/heliprdataset/home?authuser=0)] 🚙
+  -  __`[Single/Multi]`__ __`[IJRR]`__ __`[OS2-128]`__ __`[VLP-16]`__ __`[Avia]`__ __`[Aeva]`__ Heterogeneous LiDAR Dataset for inter-LiDAR Place Recognition [[pdf](https://arxiv.org/pdf/2309.14590.pdf)] [[download](https://sites.google.com/view/heliprdataset/home?authuser=0)] 🚙
 
 - __`2023`__
   -  __`[Single/Multi]`__ __`[ICRA]`__ __`[VLP-16]`__ Wild-Places: A Large-Scale Dataset for Lidar Place Recognition in Unstructured Natural Environments [[pdf](https://arxiv.org/pdf/2211.12732.pdf)] [[download](https://csiro-robotics.github.io/Wild-Places/)] 🧔
