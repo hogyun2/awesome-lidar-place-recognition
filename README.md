@@ -54,6 +54,7 @@ __`[24.03.19]`__ First commit!
   -  __`[Handcraft]`__ __`[ICRA]`__ Intensity Scan Context: Coding Intensity and Geometry Relations for Loop Closure Detection [[pdf](https://arxiv.org/pdf/2003.05656.pdf)] [[code](https://github.com/wh200720041/iscloam)] 🔥
   -  __`[Learning]`__ __`[RSS]`__ OverlapNet: Loop Closing for LiDAR-based SLAM  [[pdf](https://arxiv.org/pdf/2105.11344.pdf)] [[code](https://github.com/PRBonn/OverlapNet)] 🔥
   -  __`[Learning]`__ __`[TITS]`__ 3D LiDAR-Based Global Localization Using Siamese Neural Network [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8734150)] [[code](https://github.com/HuanYin94/LocNet_caffe)] 🔥
+  -  __`[Learning]`__ __`[IROS]`__ Semantic Graph Based Place Recognition for 3D Point Clouds [[pdf](https://arxiv.org/pdf/2008.11459.pdf)] [[code](https://github.com/kxhit/SG_PR)] 🔥
 
 - __`2019`__
   -  __`[Learning]`__ __`[CVPR]`__ PCAN: 3D Attention Map Learning Using Contextual Information for Point Cloud Based Retrieval [[pdf](https://arxiv.org/pdf/1904.09793.pdf)] [[code](https://github.com/XLechter/PCAN)] 🔥
