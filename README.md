@@ -21,6 +21,8 @@ __`[24.04.01]`__ First commit!
     -  __`[Learning]`__ __`[RAL/IROS]`__ OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition [[pdf](https://arxiv.org/pdf/2203.03397.pdf)] [[code](https://github.com/haomo-ai/OverlapTransformer)] 🔥
     -  __`[Learning]`__ __`[CVPR]`__ BVMatch: Lidar-based Place Recognition Using Bird's-eye View Images [[pdf](https://arxiv.org/pdf/2109.00317.pdf)] [[code](https://github.com/zjuluolun/BVMatch)] 🔥
     -  __`[Learning]`__ __`[RAL]`__ RINet: Efficient 3D Lidar-Based Place Recognition Using Rotation Invariant Neural Network [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9712221)] [[code](https://github.com/lilin-hitcrt/RINet)] 🔥
+    -  __`[Learning]`__ __`[TRO]`__ LCDNet: Deep Loop Closure Detection and Point Cloud Registration for LiDAR SLAM [[pdf](https://arxiv.org/pdf/2103.05056.pdf)] [[code](https://github.com/robot-learning-freiburg/LCDNet)] 🔥
+
 
 - __`2021`__
     -  __`[Learning]`__ __`[ICRA]`__ Locus: LiDAR-based Place Recognition using Spatiotemporal Higher-Order Pooling [[pdf](https://arxiv.org/pdf/2011.14497.pdf)] [[code](https://github.com/csiro-robotics/locus)] 🔥
