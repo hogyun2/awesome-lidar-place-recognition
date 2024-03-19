@@ -15,7 +15,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 🔥 represents a paper citation count of 50 or more, or a code's star count of 50 or more.
 
 ## News
-[24.03.19] First commit! 
+[!24.03.19] First commit! 
 
 
 ## LiDAR Place Recognition Methods
