@@ -1,9 +1,8 @@
 # Awesome-LiDAR-Place-Recognition [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## LiDAR only Place Recognition
-__`Handcraft.`__
 - __`2024`__
-  -  __`[❓]`__ __`BTC: A Binary and Triangle Combined Descriptor for 3D Place Recognition`__ [under-review] [[code](https://github.com/hku-mars/btc_descriptor)]
+  -  __`[Handcraft]`__ __`[❓]`__ __`BTC: A Binary and Triangle Combined Descriptor for 3D Place Recognition`__ [under-review] [[code](https://github.com/hku-mars/btc_descriptor)]
   -  __`[TIE]`__ __`Omni Point: 3D LiDAR-based Feature Extraction Method for Place Recognition and Point Registration`__ [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10378877)]
 
 - __`2023`__
