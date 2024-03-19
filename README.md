@@ -18,7 +18,6 @@ __`[24.04.01]`__ First commit!
 - __`2022`__
     -  __`[Handcraft]`__ __`[ICARCV]`__ Frequency-Domain Scan Context for Robust LiDAR-based Place Recognition with Translation and Rotation Invariance [[pdf](https://arxiv.org/pdf/2206.12628.pdf)] [[code](https://github.com/soytony/FreSCo)] 🔥
     -  __`[Handcraft]`__ __`[TRO]`__ Scan Context++: Structural Place Recognition Robust to Rotation and Lateral Variations in Urban Environments [[pdf](https://arxiv.org/pdf/2109.13494.pdf)] [[code](https://github.com/gisbi-kim/scancontext_tro)] 🔥
-    -  __`[Handcraft]`__ __`[TRO]`__ Scan Context++: Structural Place Recognition Robust to Rotation and Lateral Variations in Urban Environments [[pdf](https://arxiv.org/pdf/2109.13494.pdf)] [[code](https://github.com/gisbi-kim/scancontext_tro)] 🔥
     -  __`[Learning]`__ __`[ICRA]`__ LoGG3D-Net: Locally Guided Global Descriptor Learning for 3D Place Recognition [[pdf](https://arxiv.org/pdf/2109.08336.pdf)] [[code](https://github.com/csiro-robotics/LoGG3D-Net)] 🔥
     -  __`[Learning]`__ __`[RAL/IROS]`__ OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition [[pdf](https://arxiv.org/pdf/2203.03397.pdf)] [[code](https://github.com/haomo-ai/OverlapTransformer)] 🔥
     -  __`[Learning]`__ __`[CVPR]`__ BVMatch: Lidar-based Place Recognition Using Bird's-eye View Images [[pdf](https://arxiv.org/pdf/2109.00317.pdf)] [[code](https://github.com/zjuluolun/BVMatch)] 🔥
