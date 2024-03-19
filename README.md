@@ -92,6 +92,7 @@ __`[24.03.20]`__ First commit!
 - __`2020`__
   -  __`[Single/Multi]`__ __`[ICRA]`__ __`[OS1-64]`__ Multimodal Range Dataset for Urban Place Recognition [[pdf](https://rpm.snu.ac.kr/publications/gskim-2020-icra.pdf)] [[download](https://sites.google.com/view/mulran-pr)] 🚙
   -  __`[Single/Multi]`__ __`[ICRA]`__ __`[HDL-32]`__ The Oxford Radar RobotCar Dataset: A Radar Extension to the Oxford RobotCar Dataset [[pdf](https://arxiv.org/pdf/1909.01300.pdf)] [[download](https://oxford-robotics-institute.github.io/radar-robotcar-dataset/)] 🚙
+  -  __`[Single/Multi]`__ __`[IROS]`__ __`[HDL-32]`__ EU Long-term Dataset with Multiple Sensors for Autonomous Driving [[pdf](https://arxiv.org/pdf/1909.03330.pdf)] [[download](https://epan-utbm.github.io/utbm_robocar_dataset/)] 🚙
 
 - __`2019`__
   -  __`[Single]`__ __`[IJRR]`__ __`[VLP-16]`__ Complex urban dataset with multi-level sensors from highly diverse urban environments [[pdf](https://journals.sagepub.com/doi/pdf/10.1177/0278364919843996)] [[download](https://sites.google.com/view/complex-urban-dataset/system?authuser=0)] 🚙
