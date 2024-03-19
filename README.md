@@ -32,13 +32,14 @@ __`[24.04.01]`__ First commit!
 
 ## LiDAR Place Recognition Datasets
 - __`2024`__
-  -  __`[Single Session]`__ __`[Multi Session]`__ __`[IJRR]`__ Heterogeneous LiDAR Dataset for inter-LiDAR Place Recognition [[pdf](https://arxiv.org/pdf/2309.14590.pdf)] [[download](https://sites.google.com/view/heliprdataset/home?authuser=0)] 🔥
+  -  __`[Single Session]`__ __`[Multi Session]`__ __`[IJRR]`__ Heterogeneous LiDAR Dataset for inter-LiDAR Place Recognition [[pdf](https://arxiv.org/pdf/2309.14590.pdf)] [[download](https://sites.google.com/view/heliprdataset/home?authuser=0)] 🚙
 
 - __`2023`__
-  -  __`[Single Session]`__ __`[Multi Session]`__ __`[ICRA]`__ Wild-Places: A Large-Scale Dataset for Lidar Place Recognition in Unstructured Natural Environments [[pdf](https://arxiv.org/pdf/2211.12732.pdf)] [[download](https://csiro-robotics.github.io/Wild-Places/)] 🔥
+  -  __`[Single Session]`__ __`[Multi Session]`__ __`[ICRA]`__ Wild-Places: A Large-Scale Dataset for Lidar Place Recognition in Unstructured Natural Environments [[pdf](https://arxiv.org/pdf/2211.12732.pdf)] [[download](https://csiro-robotics.github.io/Wild-Places/)] 🧔
+  -  __`[Single Session]`__  __`[IJRR]`__ Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters [[pdf](https://arxiv.org/abs/2303.05555)] [[download](https://sites.google.com/view/pohang-canal-dataset)] 🚢
 
 - __`2020`__
-  -  __`[Single Session]`__ __`[Multi Session]`__ __`[ICRA]`__ Multimodal Range Dataset for Urban Place Recognition [[pdf](https://rpm.snu.ac.kr/publications/gskim-2020-icra.pdf)] [[download](https://sites.google.com/view/mulran-pr)] 🔥
+  -  __`[Single Session]`__ __`[Multi Session]`__ __`[ICRA]`__ Multimodal Range Dataset for Urban Place Recognition [[pdf](https://rpm.snu.ac.kr/publications/gskim-2020-icra.pdf)] [[download](https://sites.google.com/view/mulran-pr)] 🚙
 
 
 
