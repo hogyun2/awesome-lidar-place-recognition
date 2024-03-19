@@ -59,7 +59,7 @@ __`[24.04.01]`__ First commit!
   -  __`[Single/Multi]`__ __`[ICRA]`__ __`[OS1-64]`__ Multimodal Range Dataset for Urban Place Recognition [[pdf](https://rpm.snu.ac.kr/publications/gskim-2020-icra.pdf)] [[download](https://sites.google.com/view/mulran-pr)] 🚙
 
 - __`2013`__
-  -  __`[Single]`__ __`[IJRR]`__ __`[HDL-32]`__ Vision meets Robotics: The KITTI Dataset [[pdf](https://journals.sagepub.com/doi/epub/10.1177/0278364913491297)] [[download](https://www.cvlibs.net/datasets/kitti/raw_data.php)] 🚙
+  -  __`[Single]`__ __`[IJRR]`__ __`[HDL-64]`__ Vision meets Robotics: The KITTI Dataset [[pdf](https://journals.sagepub.com/doi/epub/10.1177/0278364913491297)] [[download](https://www.cvlibs.net/datasets/kitti/raw_data.php)] 🚙
 
 
 
