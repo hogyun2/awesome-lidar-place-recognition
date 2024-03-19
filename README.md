@@ -13,9 +13,11 @@ __`[24.04.01]`__ First commit!
   -  __`[Handcraft]`__ __`[TRO]`__ RING++: Roto-Translation-Invariant Gram for Global Localization on a Sparse Scan Map [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10224330)] [[code](https://github.com/lus6-Jenny/RING)]
   -  __`[Handcraft]`__ __`[ICRA]`__ STD: A Stable Triangle Descriptor for 3D place recognition [[pdf](https://arxiv.org/pdf/2209.12435.pdf)] [[code](https://github.com/hku-mars/STD)]
   -  __`[Learning]`__ __`[ICCV]`__ BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images [[pdf](https://arxiv.org/pdf/2302.14325.pdf)] [[code](https://github.com/zjuluolun/BEVPlace)]
+  -  __`[Learning]`__ __`[IROS]`__ Uncertainty-Aware Lidar Place Recognition in Novel Environments [[pdf](https://arxiv.org/pdf/2210.01361.pdf)] [[code](https://github.com/csiro-robotics/Uncertainty-LPR)]
 
 - __`2022`__
-    -  __`[Handcraft]`__ __`[IROS]`__ One RING to Rule Them All: Radon Sinogram for Place Recognition, Orientation and Translation Estimation [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981308)] [[code](https://github.com/lus6-Jenny/RING)] 🔥
+    -  __`[Handcraft]`__ __`[ICARCV]`__ Frequency-Domain Scan Context for Robust LiDAR-based Place Recognition with Translation and Rotation Invariance [[pdf](https://arxiv.org/pdf/2206.12628.pdf)] [[code](https://github.com/soytony/FreSCo)] 🔥
+    -  __`[Handcraft]`__ __`[TRO]`__ Scan Context++: Structural Place Recognition Robust to Rotation and Lateral Variations in Urban Environments [[pdf](https://arxiv.org/pdf/2109.13494.pdf)] [[code](https://github.com/gisbi-kim/scancontext_tro)] 🔥
     -  __`[Handcraft]`__ __`[TRO]`__ Scan Context++: Structural Place Recognition Robust to Rotation and Lateral Variations in Urban Environments [[pdf](https://arxiv.org/pdf/2109.13494.pdf)] [[code](https://github.com/gisbi-kim/scancontext_tro)] 🔥
     -  __`[Learning]`__ __`[ICRA]`__ LoGG3D-Net: Locally Guided Global Descriptor Learning for 3D Place Recognition [[pdf](https://arxiv.org/pdf/2109.08336.pdf)] [[code](https://github.com/csiro-robotics/LoGG3D-Net)] 🔥
     -  __`[Learning]`__ __`[RAL/IROS]`__ OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition [[pdf](https://arxiv.org/pdf/2203.03397.pdf)] [[code](https://github.com/haomo-ai/OverlapTransformer)] 🔥
