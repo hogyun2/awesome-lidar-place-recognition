@@ -5,7 +5,7 @@ __`[24.04.01]`__ First commit!
 
 ## LiDAR Place Recognition Methods
 - __`2024`__
-  -  __`Handcraft`__ __`ICRA`__ Effectively Detecting Loop Closures using Point Cloud Density Maps [[pdf](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/gupta2024icra.pdf)] [[code](https://github.com/PRBonn/MapClosures)]
+  -  __`[Handcraft]`__ __`[ICRA]`__ Effectively Detecting Loop Closures using Point Cloud Density Maps [[pdf](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/gupta2024icra.pdf)] [[code](https://github.com/PRBonn/MapClosures)]
   -  __`[Handcraft]`__ __`[❓]`__ BTC: A Binary and Triangle Combined Descriptor for 3D Place Recognition` [under-review] [[code](https://github.com/hku-mars/btc_descriptor)]
 
 - __`2023`__
