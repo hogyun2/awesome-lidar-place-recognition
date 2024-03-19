@@ -36,3 +36,5 @@ __`[24.04.01]`__ First commit!
 - __`multi-robot session`__
 
 ## LiDAR Place Recognition Utils
+- __`SLAM`__
+- __`Multi-Robot Mapping`__
