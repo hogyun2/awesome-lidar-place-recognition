@@ -41,6 +41,9 @@ __`[24.04.01]`__ First commit!
 - __`2020`__
   -  __`[Single Session]`__ __`[Multi Session]`__ __`[ICRA]`__ Multimodal Range Dataset for Urban Place Recognition [[pdf](https://rpm.snu.ac.kr/publications/gskim-2020-icra.pdf)] [[download](https://sites.google.com/view/mulran-pr)] 🚙
 
+- __`2013`__
+  -  __`[Single Session]`__ __`[IJRR]`__ Vision meets Robotics: The KITTI Dataset [[pdf](https://journals.sagepub.com/doi/epub/10.1177/0278364913491297)] [[download](https://www.cvlibs.net/datasets/kitti/raw_data.php)] 🚙
+
 
 
 ## LiDAR Place Recognition Utils
