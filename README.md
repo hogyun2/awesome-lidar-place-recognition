@@ -16,10 +16,10 @@ __`[24.04.01]`__ First commit!
   -  __`[Learning]`__ __`[RAL]`__ P-GAT : Pose-Graph Attentional Network for Lidar Place Recognition [[pdf](https://arxiv.org/pdf/2309.00168.pdf)] [[code](https://github.com/csiro-robotics/P-GAT)]
 
 - __`2023`__
-  -  __`[Handcraft]`__ __`[TRO]`__ RING++: Roto-Translation-Invariant Gram for Global Localization on a Sparse Scan Map [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10224330)] [[code](https://github.com/lus6-Jenny/RING)]
-  -  __`[Handcraft]`__ __`[ICRA]`__ STD: A Stable Triangle Descriptor for 3D place recognition [[pdf](https://arxiv.org/pdf/2209.12435.pdf)] [[code](https://github.com/hku-mars/STD)]
-  -  __`[Learning]`__ __`[ICCV]`__ BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images [[pdf](https://arxiv.org/pdf/2302.14325.pdf)] [[code](https://github.com/zjuluolun/BEVPlace)]
-  -  __`[Learning]`__ __`[IROS]`__ Uncertainty-Aware Lidar Place Recognition in Novel Environments [[pdf](https://arxiv.org/pdf/2210.01361.pdf)] [[code](https://github.com/csiro-robotics/Uncertainty-LPR)]
+  -  __`[Handcraft]`__ __`[TRO]`__ RING++: Roto-Translation-Invariant Gram for Global Localization on a Sparse Scan Map [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10224330)] [[code](https://github.com/lus6-Jenny/RING)] 🔥
+  -  __`[Handcraft]`__ __`[ICRA]`__ STD: A Stable Triangle Descriptor for 3D place recognition [[pdf](https://arxiv.org/pdf/2209.12435.pdf)] [[code](https://github.com/hku-mars/STD)] 🔥
+  -  __`[Learning]`__ __`[ICCV]`__ BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images [[pdf](https://arxiv.org/pdf/2302.14325.pdf)] [[code](https://github.com/zjuluolun/BEVPlace)] 🔥
+  -  __`[Learning]`__ __`[IROS]`__ Uncertainty-Aware Lidar Place Recognition in Novel Environments [[pdf](https://arxiv.org/pdf/2210.01361.pdf)] [[code](https://github.com/csiro-robotics/Uncertainty-LPR)] 🔥
 
 - __`2022`__
     -  __`[Handcraft]`__ __`[ICARCV]`__ Frequency-Domain Scan Context for Robust LiDAR-based Place Recognition with Translation and Rotation Invariance [[pdf](https://arxiv.org/pdf/2206.12628.pdf)] [[code](https://github.com/soytony/FreSCo)] 🔥
