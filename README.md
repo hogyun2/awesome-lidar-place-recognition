@@ -122,5 +122,7 @@ __`[24.03.19]`__ First commit!
 ## Contributing
 Please Feel free to send a [pull request](https://github.com/hogyun2/awesome-lidar-place-recognition/pulls) to modify the list or add datasets.
 
-## Contact
-- Hogyun Kim (hg.kim@inha.edu)
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Hogyun Kim](https://github.com/hogyun2) has waived all copyright and related or neighboring rights to this work.
