@@ -26,9 +26,11 @@ __`[24.04.01]`__ First commit!
     -  __`[Learning]`__ __`[TRO]`__ LCDNet: Deep Loop Closure Detection and Point Cloud Registration for LiDAR SLAM [[pdf](https://arxiv.org/pdf/2103.05056.pdf)] [[code](https://github.com/robot-learning-freiburg/LCDNet)] 🔥
     -  __`[Learning]`__ __`[ICPR]`__ Improving Point Cloud Based Place Recognition with Ranking-based Loss and Large Batch Training [[pdf](https://arxiv.org/pdf/2203.00972.pdf)] [[code](https://github.com/jac99/MinkLoc3Dv2)] 🔥
     -  __`[Learning]`__ __`[IROS]`__ InCloud: Incremental Learning for Point Cloud Place Recognition [[pdf](https://arxiv.org/pdf/2203.00807.pdf)] [[code](https://github.com/csiro-robotics/InCloud)] 🔥
+    -  __`[Learning]`__ __`[TIE]`__ SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data [[pdf](https://arxiv.org/pdf/2209.07951.pdf)] [[code](https://github.com/BIT-MJY/SeqOT)] 🔥
 
 
 - __`2021`__
+    -  __`[Handcraft]`__ __`[ICRA]`__ Robust Place Recognition using an Imaging Lidar [[pdf](https://arxiv.org/pdf/2103.02111.pdf)] [[code](https://github.com/TixiaoShan/imaging_lidar_place_recognition)] 🔥
     -  __`[Learning]`__ __`[ICRA]`__ Locus: LiDAR-based Place Recognition using Spatiotemporal Higher-Order Pooling [[pdf](https://arxiv.org/pdf/2011.14497.pdf)] [[code](https://github.com/csiro-robotics/locus)] 🔥
     -  __`[Learning]`__ __`[ICRA]`__ NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation [[pdf](https://arxiv.org/pdf/2103.12292.pdf)] [[code](https://github.com/dachengxiaocheng/NDT-Transformer)] 🔥
     -  __`[Learning]`__ __`[RAL/ICRA]`__ Disco: Differentiable scan context with orientation [[pdf](https://arxiv.org/pdf/2010.10949.pdf)] [[code](https://github.com/MaverickPeter/DiSCO-pytorch)] 🔥
