@@ -1,5 +1,8 @@
 # Awesome-LiDAR-Place-Recognition [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+## News!
+__`[24.04.01]`__ First commit! 
+
 ## LiDAR only Place Recognition
 - __`2024`__
     -  __`[Handcraft]`__ __`[ICRA]`__ __`Effectively Detecting Loop Closures using Point Cloud Density Maps`__ [[pdf](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/gupta2024icra.pdf)] [[code](https://github.com/PRBonn/MapClosures)]
