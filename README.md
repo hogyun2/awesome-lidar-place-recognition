@@ -10,7 +10,7 @@ Datasets for LiDAR Place Recognition are classified into **single-session**, **m
 
 Finally, **various algorithms** that play an important role in Place Recognition are introduced.
 
-🔥 represents that a paper citation count of 50 or more, or a code's star count of 50 or more.
+🔥 represents a paper citation count of 50 or more, or a code's star count of 50 or more.
 
 ## News!
 __`[24.03.19]`__ First commit! 
@@ -88,6 +88,12 @@ __`[24.03.19]`__ First commit!
   -  __`[Multi]`__  __`[IJRR]`__ __`[OS1-64]`__ __`[OS1-32]`__ Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters [[pdf](https://arxiv.org/abs/2303.05555)] [[download](https://sites.google.com/view/pohang-canal-dataset)] 🚢
   -  __`[Multi-Robot]`__  __`[Arxiv]`__ __`[VLP-16]`__ S3E: A Large-scale Multimodal Dataset for Collaborative SLAM [[pdf](https://arxiv.org/pdf/2210.13723.pdf)] [[download](https://github.com/PengYu-Team/S3E)] 🤖
   -  __`[Multi-Robot]`__  __`[Arxiv]`__ __`[VLP-16]`__ Resilient and Distributed Multi-Robot Visual SLAM: Datasets, Experiments, and Lessons Learned [[pdf](https://arxiv.org/pdf/2304.04362.pdf)] [[download](https://github.com/MIT-SPARK/Kimera-Multi-Data)] 🤖
+
+- __`2022`__
+  -  __`[Multi-Robot]`__ __`[RAL]`__ __`[VLP-16]`__ DiSCo-SLAM: Distributed Scan Context-Enabled Multi-Robot LiDAR SLAM With Two-Stage Global-Local Graph Optimization [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9662965)] [[code](https://github.com/RobustFieldAutonomyLab/DiSCo-SLAM)] 🤖
+
+- __`2021`__
+    -  __`[Single]`__ __`[ICRA]`__ __`[OS1-128]`__ Robust Place Recognition using an Imaging Lidar [[pdf](https://arxiv.org/pdf/2103.02111.pdf)] [[code](https://github.com/TixiaoShan/imaging_lidar_place_recognition)] 🧔
 
 - __`2020`__
   -  __`[Single/Multi]`__ __`[ICRA]`__ __`[OS1-64]`__ Multimodal Range Dataset for Urban Place Recognition [[pdf](https://rpm.snu.ac.kr/publications/gskim-2020-icra.pdf)] [[download](https://sites.google.com/view/mulran-pr)] 🚙
