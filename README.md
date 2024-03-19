@@ -5,6 +5,8 @@ __`Handcraft.`__
 - __`2024`__
   -  __`[TIE]`__ __`Omni Point: 3D LiDAR-based Feature Extraction Method for Place Recognition and Point Registration`__ [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10378877)]
 - __`2023`__
+- __`2022`__
+    -  __`[TRO]`__ __`Scan Context++: Structural Place Recognition Robust to Rotation and Lateral Variations in Urban Environments`__ [[pdf](https://arxiv.org/pdf/2109.13494.pdf)] [[code](https://github.com/gisbi-kim/scancontext_tro)] 🔥
 - __`2018`__
   -  __`[IROS]`__ __`Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map`__ [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593953)] [[code](https://github.com/gisbi-kim/scancontext)] 🔥
 
