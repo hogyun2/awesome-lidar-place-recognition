@@ -22,6 +22,7 @@ __`[24.04.01]`__ First commit!
     -  __`[Learning]`__ __`[RAL]`__ RINet: Efficient 3D Lidar-Based Place Recognition Using Rotation Invariant Neural Network [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9712221)] [[code](https://github.com/lilin-hitcrt/RINet)] 🔥
     -  __`[Learning]`__ __`[TRO]`__ LCDNet: Deep Loop Closure Detection and Point Cloud Registration for LiDAR SLAM [[pdf](https://arxiv.org/pdf/2103.05056.pdf)] [[code](https://github.com/robot-learning-freiburg/LCDNet)] 🔥
     -  __`[Learning]`__ __`[ICPR]`__ Improving Point Cloud Based Place Recognition with Ranking-based Loss and Large Batch Training [[pdf](https://arxiv.org/pdf/2203.00972.pdf)] [[code](https://github.com/jac99/MinkLoc3Dv2)] 🔥
+    -  __`[Learning]`__ __`[IROS]`__ InCloud: Incremental Learning for Point Cloud Place Recognition [[pdf](https://arxiv.org/pdf/2203.00807.pdf)] [[code](https://github.com/csiro-robotics/InCloud)] 🔥
 
 
 - __`2021`__
