@@ -1,5 +1,6 @@
 # Awesome-LiDAR-Place-Recognition [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <img src="awesome-lidar-place-recognition.gif" width="600"/>
+>Thumbnail Figures from Complex Urban, NCLT, Oxford robotcar, KiTTi, Cityscapes datasets.  
 
 ## News!
 __`[24.04.01]`__ First commit! 
