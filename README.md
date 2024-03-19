@@ -2,6 +2,10 @@
 ![image](awesome-lidar-place-recognition.gif)
 >Thumbnail Figures from Complex Urban, Wild-Places, and DiTer datasets / our place recognition method (TBD) / DiSCo-SLAM.  
 
+
+This repository is the collection of LiDAR Place Recognition Research that provides a code, together.
+
+
 ## News!
 __`[24.04.01]`__ First commit! 
 
