@@ -22,7 +22,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 - 2024
 
-  - ['Handcraft'][ICRA]Effectively Detecting Loop Closures using Point Cloud Density Maps [[pdf](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/gupta2024icra.pdf)] [[code](https://github.com/PRBonn/MapClosures)] 🔥
+  - **'Handcraft'** **'ICRA'** Effectively Detecting Loop Closures using Point Cloud Density Maps [[pdf](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/gupta2024icra.pdf)] [[code](https://github.com/PRBonn/MapClosures)] 🔥
 
   - [Handcraft] [❓] BTC: A Binary and Triangle Combined Descriptor for 3D Place Recognition` [under-review] [[code](https://github.com/hku-mars/btc_descriptor)] 🔥
 
