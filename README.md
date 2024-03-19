@@ -17,7 +17,7 @@ __`[24.04.01]`__ First commit!
     -  __`[Handcraft]`__ __`[IROS]`__ One RING to Rule Them All: Radon Sinogram for Place Recognition, Orientation and Translation Estimation [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981308)] [[code](https://github.com/lus6-Jenny/RING)] 🔥
     -  __`[Handcraft]`__ __`[TRO]`__ Scan Context++: Structural Place Recognition Robust to Rotation and Lateral Variations in Urban Environments [[pdf](https://arxiv.org/pdf/2109.13494.pdf)] [[code](https://github.com/gisbi-kim/scancontext_tro)] 🔥
     -  __`[Learning]`__ __`[ICRA]`__ LoGG3D-Net: Locally Guided Global Descriptor Learning for 3D Place Recognition [[pdf](https://arxiv.org/pdf/2109.08336.pdf)] [[code](https://github.com/csiro-robotics/LoGG3D-Net)] 🔥
-     -  __`[Learning]`__ __`[RAL/IROS]`__ OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition [[pdf](https://arxiv.org/pdf/2203.03397.pdf)] [[code](https://github.com/haomo-ai/OverlapTransformer)] 🔥
+    -  __`[Learning]`__ __`[RAL/IROS]`__ OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition [[pdf](https://arxiv.org/pdf/2203.03397.pdf)] [[code](https://github.com/haomo-ai/OverlapTransformer)] 🔥
 
 
 - __`2018`__
@@ -36,7 +36,7 @@ __`[24.04.01]`__ First commit!
 
 - __`2023`__
   -  __`[Single Session]`__ __`[Multi Session]`__ __`[ICRA]`__ Wild-Places: A Large-Scale Dataset for Lidar Place Recognition in Unstructured Natural Environments [[pdf](https://arxiv.org/pdf/2211.12732.pdf)] [[download](https://csiro-robotics.github.io/Wild-Places/)] 🧔
-  -  __`[Single Session]`__  __`[IJRR]`__ Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters [[pdf](https://arxiv.org/abs/2303.05555)] [[download](https://sites.google.com/view/pohang-canal-dataset)] 🚢
+  -  __`[Multi Session]`__  __`[IJRR]`__ Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters [[pdf](https://arxiv.org/abs/2303.05555)] [[download](https://sites.google.com/view/pohang-canal-dataset)] 🚢
 
 - __`2020`__
   -  __`[Single Session]`__ __`[Multi Session]`__ __`[ICRA]`__ Multimodal Range Dataset for Urban Place Recognition [[pdf](https://rpm.snu.ac.kr/publications/gskim-2020-icra.pdf)] [[download](https://sites.google.com/view/mulran-pr)] 🚙
