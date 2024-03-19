@@ -1,5 +1,7 @@
 # Awesome LiDAR Place Recognition [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 ![image](awesome-lidar-place-recognition.gif)
+
 >Thumbnail Figures from Complex Urban, Wild-Places, and DiTer datasets / our place recognition method (TBD) / DiSCo-SLAM.  
 
 This repository is the collection of LiDAR Place Recognition Research that provides a code or a download page, together. This repository also reports the datasets for Place Recognition and various algorithms utilized in Place Recognition (e.g. multi-robot mapping, SLAM).
