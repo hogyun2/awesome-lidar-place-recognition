@@ -24,6 +24,7 @@ __`[24.04.01]`__ First commit!
 
 - __`2021`__
     -  __`[Learning]`__ __`[ICRA]`__ Locus: LiDAR-based Place Recognition using Spatiotemporal Higher-Order Pooling [[pdf](https://arxiv.org/pdf/2011.14497.pdf)] [[code](https://github.com/csiro-robotics/locus)] 🔥
+    -  __`[Learning]`__ __`[RAL/ICRA]`__ Disco: Differentiable scan context with orientation [[pdf](https://arxiv.org/pdf/2010.10949.pdf)] [[code](https://github.com/MaverickPeter/DiSCO-pytorch)] 🔥
 
 - __`2020`__
   -  __`[Handcraft]`__ __`[IROS]`__ LiDAR Iris for Loop-Closure Detection  [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9341010)] [[code](https://github.com/BigMoWangying/LiDAR-Iris)] 🔥
