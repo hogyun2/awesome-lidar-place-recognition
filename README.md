@@ -112,6 +112,7 @@ __`[24.03.20]`__ First commit!
 - __`2022`__
   -  __`[Multi-Robot SLAM]`__ __`[RAL]`__ DiSCo-SLAM: Distributed Scan Context-Enabled Multi-Robot LiDAR SLAM With Two-Stage Global-Local Graph Optimization [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9662965)] [[code](https://github.com/RobustFieldAutonomyLab/DiSCo-SLAM)] 🔥
   -  __`[Mapping Framework]`__ __`[ICRA]`__ LT-mapper: A Modular Framework for LiDAR-based Lifelong Mapping [[pdf](https://arxiv.org/pdf/2107.07712.pdf)] [[code](https://github.com/gisbi-kim/lt-mapper)] 🔥
+  -  __`[SLAM Framework]`__ __`[ICEIC]`__ SC-LiDAR-SLAM: A Front-end Agnostic Versatile LiDAR SLAM System [[pdf](https://arxiv.org/pdf/2201.06423.pdf)] [[SC-A-LOAM](https://github.com/gisbi-kim/SC-A-LOAM)] [[SC-LeGO-LOAM](https://github.com/gisbi-kim/SC-LeGO-LOAM)] [[SC-LIO-SAM](https://github.com/gisbi-kim/SC-LIO-SAM)] [[FAST-LIO-SLAM](https://github.com/gisbi-kim/FAST_LIO_SLAM)] 🔥
 
 ## Contributing
 Please Feel free to send a [pull request](https://github.com/hogyun2/awesome-lidar-place-recognition/pulls) to modify the list or add datasets.
