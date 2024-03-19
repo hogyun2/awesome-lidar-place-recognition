@@ -12,7 +12,8 @@
 - __`2022`__
     -  __`[Handcraft]`__ __`[TRO]`__ __`Scan Context++: Structural Place Recognition Robust to Rotation and Lateral Variations in Urban Environments`__ [[pdf](https://arxiv.org/pdf/2109.13494.pdf)] [[code](https://github.com/gisbi-kim/scancontext_tro)] 🔥
     -  __`[Learning]`__ __`[ICRA]`__ __`LoGG3D-Net: Locally Guided Global Descriptor Learning for 3D Place Recognition`__ [[pdf](https://arxiv.org/pdf/2109.08336.pdf)] [[code](https://github.com/csiro-robotics/LoGG3D-Net)] 🔥
- 
+     -  __`[Learning]`__ __`[RAL/IROS]`__ __`OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition`__ [[pdf](https://arxiv.org/pdf/2203.03397.pdf)] [[code](https://github.com/haomo-ai/OverlapTransformer)] 🔥
+
 
 - __`2018`__
   -  __`[Handcraft]`__ __`[IROS]`__ __`Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map`__ [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593953)] [[code](https://github.com/gisbi-kim/scancontext)] 🔥
