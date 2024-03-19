@@ -7,6 +7,7 @@ __`[24.04.01]`__ First commit!
 - __`2024`__
   -  __`[Handcraft]`__ __`[ICRA]`__ Effectively Detecting Loop Closures using Point Cloud Density Maps [[pdf](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/gupta2024icra.pdf)] [[code](https://github.com/PRBonn/MapClosures)]
   -  __`[Handcraft]`__ __`[❓]`__ BTC: A Binary and Triangle Combined Descriptor for 3D Place Recognition` [under-review] [[code](https://github.com/hku-mars/btc_descriptor)]
+  -  __`[Learning]`__ __`[RAL]`__ P-GAT : Pose-Graph Attentional Network for Lidar Place Recognition [[pdf](https://arxiv.org/pdf/2309.00168.pdf)] [[code](https://github.com/csiro-robotics/P-GAT)]
 
 - __`2023`__
   -  __`[Handcraft]`__ __`[TRO]`__ RING++: Roto-Translation-Invariant Gram for Global Localization on a Sparse Scan Map [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10224330)] [[code](https://github.com/lus6-Jenny/RING)]
@@ -37,6 +38,7 @@ __`[24.04.01]`__ First commit!
   -  __`[Handcraft]`__ __`[IROS]`__ LiDAR Iris for Loop-Closure Detection  [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9341010)] [[code](https://github.com/BigMoWangying/LiDAR-Iris)] 🔥
   -  __`[Handcraft]`__ __`[ICRA]`__ Intensity Scan Context: Coding Intensity and Geometry Relations for Loop Closure Detection [[pdf](https://arxiv.org/pdf/2003.05656.pdf)] [[code](https://github.com/wh200720041/iscloam)] 🔥
   -  __`[Learning]`__ __`[RSS]`__ OverlapNet: Loop Closing for LiDAR-based SLAM  [[pdf](https://arxiv.org/pdf/2105.11344.pdf)] [[code](https://github.com/PRBonn/OverlapNet)] 🔥
+  -  __`[Learning]`__ __`[TITS]`__ 3D LiDAR-Based Global Localization Using Siamese Neural Network [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8734150)] [[code](https://github.com/HuanYin94/LocNet_caffe)] 🔥
 
 - __`2019`__
   -  __`[Learning]`__ __`[CVPR]`__ PCAN: 3D Attention Map Learning Using Contextual Information for Point Cloud Based Retrieval [[pdf](https://arxiv.org/pdf/1904.09793.pdf)] [[code](https://github.com/XLechter/PCAN)] 🔥
