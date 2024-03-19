@@ -86,6 +86,9 @@ __`[24.03.20]`__ First commit!
 - __`2019`__
   -  __`[Single]`__ __`[IJRR]`__ __`[VLP-16]`__ Complex urban dataset with multi-level sensors from highly diverse urban environments [[pdf](https://journals.sagepub.com/doi/pdf/10.1177/0278364919843996)] [[download](https://sites.google.com/view/complex-urban-dataset/system?authuser=0)] 🚙
 
+- __`2016`__
+  -  __`[Multi]`__ __`[IJRR]`__ __`[HDL-32]`__ North Campus Long-Term Vision and Lidar Dataset [[pdf](http://robots.engin.umich.edu/nclt/nclt.pdf)] [[download](http://robots.engin.umich.edu/nclt/)] 🤖
+
 - __`2013`__
   -  __`[Single]`__ __`[IJRR]`__ __`[HDL-64]`__ Vision meets Robotics: The KITTI Dataset [[pdf](https://journals.sagepub.com/doi/epub/10.1177/0278364913491297)] [[download](https://www.cvlibs.net/datasets/kitti/raw_data.php)] 🚙
 
