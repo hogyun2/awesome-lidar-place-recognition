@@ -24,6 +24,7 @@ __`[24.04.01]`__ First commit!
 
 - __`2018`__
   -  __`[Handcraft]`__ __`[IROS]`__ Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593953)] [[code](https://github.com/gisbi-kim/scancontext)] 🔥
+  -  __`[Learning]`__ __`[CVPR]`__ PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition [[pdf](https://arxiv.org/pdf/1804.03492.pdf)] [[code](https://github.com/mikacuy/pointnetvlad)] 🔥
 
 - __`2016`__
   -  __`[Handcraft]`__ __`[IROS]`__ M2DP: A novel 3D point cloud descriptor and its application in loop closure detection [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7759060)] [[code](https://github.com/LiHeUA/M2DP)] 🔥
