@@ -14,6 +14,9 @@ __`Handcraft.`__
 - __`2018`__
   -  __`[IROS]`__ __`Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map`__ [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593953)] [[code](https://github.com/gisbi-kim/scancontext)] 🔥
 
+- __`2016`__
+  -  __`[IROS]`__ __`M2DP: A novel 3D point cloud descriptor and its application in loop closure detection`__ [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7759060)] [[code](https://github.com/LiHeUA/M2DP)] 🔥
+
 __`Learning.`__
 - __`2024.`__
 - __`2023.`__
