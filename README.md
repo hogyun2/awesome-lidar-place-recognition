@@ -17,10 +17,14 @@ Finally, **various algorithms** that play an important role in Place Recognition
 ## News!
 __`[24.03.19]`__ First commit! 
 
+
 ## LiDAR Place Recognition Methods
+
 - __`2024`__
   -  __`[Handcraft]`__ __`[ICRA]`__ Effectively Detecting Loop Closures using Point Cloud Density Maps [[pdf](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/gupta2024icra.pdf)] [[code](https://github.com/PRBonn/MapClosures)] 🔥
+
   -  __`[Handcraft]`__ __`[❓]`__ BTC: A Binary and Triangle Combined Descriptor for 3D Place Recognition` [under-review] [[code](https://github.com/hku-mars/btc_descriptor)] 🔥
+
   -  __`[Learning]`__ __`[RAL]`__ P-GAT : Pose-Graph Attentional Network for Lidar Place Recognition [[pdf](https://arxiv.org/pdf/2309.00168.pdf)] [[code](https://github.com/csiro-robotics/P-GAT)]
 
 - __`2023`__
