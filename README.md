@@ -23,6 +23,9 @@
 - __`2016`__
   -  __`[Handcraft]`__ __`[IROS]`__ __`M2DP: A novel 3D point cloud descriptor and its application in loop closure detection`__ [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7759060)] [[code](https://github.com/LiHeUA/M2DP)] 🔥
 
+- __`2015`__
+  -  __`[Handcraft]`__ __`[IROS]`__ __`A Fast Histogram-Based Similarity Measure for Detecting Loop Closures in 3-D LIDAR Data`__ [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7353454)] [[code](https://github.com/wangliuliu/histogram)] 🔥
+
 
 ## LiDAR Place Recognition Datasets
 - __`single session`__
