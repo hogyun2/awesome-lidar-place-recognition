@@ -19,6 +19,8 @@ __`[24.04.01]`__ First commit!
     -  __`[Learning]`__ __`[ICRA]`__ LoGG3D-Net: Locally Guided Global Descriptor Learning for 3D Place Recognition [[pdf](https://arxiv.org/pdf/2109.08336.pdf)] [[code](https://github.com/csiro-robotics/LoGG3D-Net)] 🔥
     -  __`[Learning]`__ __`[RAL/IROS]`__ OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition [[pdf](https://arxiv.org/pdf/2203.03397.pdf)] [[code](https://github.com/haomo-ai/OverlapTransformer)] 🔥
 
+- __`2020`__
+  -  __`[Handcraft]`__ __`[IROS]`__ LiDAR Iris for Loop-Closure Detection  [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9341010)] [[code](https://github.com/BigMoWangying/LiDAR-Iris)] 🔥
 
 - __`2018`__
   -  __`[Handcraft]`__ __`[IROS]`__ Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593953)] [[code](https://github.com/gisbi-kim/scancontext)] 🔥
