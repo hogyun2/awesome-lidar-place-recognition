@@ -120,10 +120,6 @@ __`[24.03.19]`__ First commit!
   -  __`[Mapping Framework]`__ __`[ICRA]`__ LT-mapper: A Modular Framework for LiDAR-based Lifelong Mapping [[pdf](https://arxiv.org/pdf/2107.07712.pdf)] [[code](https://github.com/gisbi-kim/lt-mapper)] 🔥
   -  __`[SLAM Framework]`__ __`[ICEIC]`__ SC-LiDAR-SLAM: A Front-end Agnostic Versatile LiDAR SLAM System [[pdf](https://arxiv.org/pdf/2201.06423.pdf)] [[SC-A-LOAM](https://github.com/gisbi-kim/SC-A-LOAM)] [[SC-LeGO-LOAM](https://github.com/gisbi-kim/SC-LeGO-LOAM)] [[SC-LIO-SAM](https://github.com/gisbi-kim/SC-LIO-SAM)] [[FAST-LIO-SLAM](https://github.com/gisbi-kim/FAST_LIO_SLAM)] 🔥
 
-## Contributing
-Please Feel free to send a [pull request](https://github.com/hogyun2/awesome-lidar-place-recognition/pulls) to modify the list or add methods, datasets, and algorithms.
 
-## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Hogyun Kim](https://github.com/hogyun2) has waived all copyright and related or neighboring rights to this work.
+## Contact
+- Hogyun Kim (hg.kim@inha.edu)
