@@ -7,9 +7,11 @@
   -  __`[Handcraft]`__ __`[TIV]`__ __`Omni Point: 3D LiDAR-based Feature Extraction Method for Place Recognition and Point Registration`__ [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10378877)]
 
 - __`2023`__
+  -  __`[Handcraft]`__ __`[TRO]`__ __`RING++: Roto-Translation-Invariant Gram for Global Localization on a Sparse Scan Map`__ [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10224330)] [[code](https://github.com/lus6-Jenny/RING)]
   -  __`[Handcraft]`__ __`[ICRA]`__ __`STD: A Stable Triangle Descriptor for 3D place recognition`__ [[pdf](https://arxiv.org/pdf/2209.12435.pdf)] [[code](https://github.com/hku-mars/STD)]
 
 - __`2022`__
+    -  __`[Handcraft]`__ __`[IROS]`__ __`One RING to Rule Them All: Radon Sinogram for Place Recognition, Orientation and Translation Estimation`__ [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981308)] [[code](https://github.com/lus6-Jenny/RING)] 🔥
     -  __`[Handcraft]`__ __`[TRO]`__ __`Scan Context++: Structural Place Recognition Robust to Rotation and Lateral Variations in Urban Environments`__ [[pdf](https://arxiv.org/pdf/2109.13494.pdf)] [[code](https://github.com/gisbi-kim/scancontext_tro)] 🔥
     -  __`[Learning]`__ __`[ICRA]`__ __`LoGG3D-Net: Locally Guided Global Descriptor Learning for 3D Place Recognition`__ [[pdf](https://arxiv.org/pdf/2109.08336.pdf)] [[code](https://github.com/csiro-robotics/LoGG3D-Net)] 🔥
      -  __`[Learning]`__ __`[RAL/IROS]`__ __`OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition`__ [[pdf](https://arxiv.org/pdf/2203.03397.pdf)] [[code](https://github.com/haomo-ai/OverlapTransformer)] 🔥
