@@ -69,9 +69,9 @@ __`[24.03.20]`__ First commit!
 
 ## LiDAR Place Recognition Datasets
 - __`2024`__
-  -  __`[Multi]`__ __`[RAL]`__ __`[VLP-16]`__ __`[Avia]`__ BotanicGarden: A High-Quality Dataset for Robot Navigation in Unstructured Natural Environments [[pdf](https://arxiv.org/pdf/2306.14137.pdf)] [[download](https://github.com/robot-pesg/BotanicGarden)] 🤖
   -  __`[Single/Multi]`__ __`[IJRR]`__ __`[OS2-128]`__ __`[VLP-16]`__ __`[Avia]`__ __`[Aeva]`__ Heterogeneous LiDAR Dataset for inter-LiDAR Place Recognition [[pdf](https://arxiv.org/pdf/2309.14590.pdf)] [[download](https://sites.google.com/view/heliprdataset)] 🚙
   -  __`[Single/Multi]`__ __`[IEEE Sensors Letter]`__ __`[OS1-64]`__ __`[OS1-32]`__ DiTer: Diverse Terrain and Multi-Modal Dataset for Field Robot Navigation in Outdoor Environments [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10416213)] [[download](https://sites.google.com/view/diter-dataset/)] 🚙
+  -  __`[Multi]`__ __`[RAL]`__ __`[VLP-16]`__ __`[Avia]`__ BotanicGarden: A High-Quality Dataset for Robot Navigation in Unstructured Natural Environments [[pdf](https://arxiv.org/pdf/2306.14137.pdf)] [[download](https://github.com/robot-pesg/BotanicGarden)] 🤖
 
 - __`2023`__
   -  __`[Single/Multi]`__ __`[ICRA]`__ __`[VLP-16]`__ Wild-Places: A Large-Scale Dataset for Lidar Place Recognition in Unstructured Natural Environments [[pdf](https://arxiv.org/pdf/2211.12732.pdf)] [[download](https://csiro-robotics.github.io/Wild-Places/)] 🧔
