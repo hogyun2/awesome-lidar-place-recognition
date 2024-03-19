@@ -5,7 +5,7 @@ __`[24.04.01]`__ First commit!
 
 ## LiDAR Place Recognition Methods
 - __`2024`__
-    -  __`[Handcraft]`__ __`[ICRA]`__ Effectively Detecting Loop Closures using Point Cloud Density Maps [[pdf](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/gupta2024icra.pdf)] [[code](https://github.com/PRBonn/MapClosures)]
+  -  __`[Handcraft]`__ __`[ICRA]`__ Effectively Detecting Loop Closures using Point Cloud Density Maps [[pdf](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/gupta2024icra.pdf)] [[code](https://github.com/PRBonn/MapClosures)]
   -  __`[Handcraft]`__ __`[❓]`__ BTC: A Binary and Triangle Combined Descriptor for 3D Place Recognition` [under-review] [[code](https://github.com/hku-mars/btc_descriptor)]
   -  __`[Handcraft]`__ __`[TIV]`__ Omni Point: 3D LiDAR-based Feature Extraction Method for Place Recognition and Point Registration [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10378877)]
 
@@ -31,9 +31,8 @@ __`[24.04.01]`__ First commit!
 
 
 ## LiDAR Place Recognition Datasets
-- __`single session`__
-- __`multi session`__
-- __`multi-robot session`__
+- __`2020`__
+  -  __`[Single Session]`__ __`[ICRA]`__ Multimodal Range Dataset for Urban Place Recognition [[pdf](https://rpm.snu.ac.kr/publications/gskim-2020-icra.pdf)] [[download](https://sites.google.com/view/mulran-pr)] 🔥
 
 ## LiDAR Place Recognition Utils
 - __`SLAM`__
