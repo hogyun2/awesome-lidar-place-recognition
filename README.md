@@ -21,16 +21,10 @@ __`Learning.`__
 - __`2024.`__
 - __`2023.`__
 
-## LiDAR Place Recognition + Algorithms
-- __`Odometry`__
-- __`Multi-Robot Mapping`__
-
 
 ## LiDAR Place Recognition Datasets
 - __`single session`__
 - __`multi session`__
 - __`multi-robot session`__
 
-## LiDAR-others fusion Place Recognition
-
-## LiDAR Pointcloud Utils
+## LiDAR Place Recognition Utils
