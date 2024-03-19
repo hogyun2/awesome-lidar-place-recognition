@@ -86,7 +86,7 @@ __`[24.03.20]`__ First commit!
   -  __`[Multi]`__ __`[RAL]`__ __`[VLP-16]`__ GRACO: A Multimodal Dataset for Ground and Aerial Cooperative Localization and Mapping [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10008011)] [[download](https://sites.google.com/view/graco-dataset)] 🛩️ 🤖
   -  __`[Multi]`__  __`[IJRR]`__ __`[OS1-64]`__ __`[OS1-32]`__ Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters [[pdf](https://arxiv.org/abs/2303.05555)] [[download](https://sites.google.com/view/pohang-canal-dataset)] 🚢
   -  __`[Multi-Robot]`__  __`[Arxiv]`__ __`[VLP-16]`__ S3E: A Large-scale Multimodal Dataset for Collaborative SLAM [[pdf](https://arxiv.org/pdf/2210.13723.pdf)] [[download](https://github.com/PengYu-Team/S3E)] 🤖
-  -  __`[Multi-Robot]`__  __`[Arxiv]`__ Resilient and Distributed Multi-Robot Visual SLAM: Datasets, Experiments, and Lessons Learned [[pdf](https://arxiv.org/pdf/2304.04362.pdf)] [[download](https://github.com/MIT-SPARK/Kimera-Multi-Data)] 🤖
+  -  __`[Multi-Robot]`__  __`[Arxiv]`__ __`[VLP-16]`__ Resilient and Distributed Multi-Robot Visual SLAM: Datasets, Experiments, and Lessons Learned [[pdf](https://arxiv.org/pdf/2304.04362.pdf)] [[download](https://github.com/MIT-SPARK/Kimera-Multi-Data)] 🤖
 
 - __`2022`__
   -  __`[Multi-Robot]`__ __`[RAL]`__ __`[VLP-16]`__ DiSCo-SLAM: Distributed Scan Context-Enabled Multi-Robot LiDAR SLAM With Two-Stage Global-Local Graph Optimization [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9662965)] [[code](https://github.com/RobustFieldAutonomyLab/DiSCo-SLAM)] 🤖
