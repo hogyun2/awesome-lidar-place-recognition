@@ -26,6 +26,7 @@ __`[24.04.01]`__ First commit!
 
 - __`2021`__
     -  __`[Learning]`__ __`[ICRA]`__ Locus: LiDAR-based Place Recognition using Spatiotemporal Higher-Order Pooling [[pdf](https://arxiv.org/pdf/2011.14497.pdf)] [[code](https://github.com/csiro-robotics/locus)] 🔥
+    -  __`[Learning]`__ __`[ICRA]`__ NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation [[pdf](https://arxiv.org/pdf/2103.12292.pdf)] [[code](https://github.com/dachengxiaocheng/NDT-Transformer)] 🔥
     -  __`[Learning]`__ __`[RAL/ICRA]`__ Disco: Differentiable scan context with orientation [[pdf](https://arxiv.org/pdf/2010.10949.pdf)] [[code](https://github.com/MaverickPeter/DiSCO-pytorch)] 🔥
 
 - __`2020`__
