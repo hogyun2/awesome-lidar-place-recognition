@@ -5,7 +5,7 @@
 
 This repository is the collection of LiDAR Place Recognition Research that provides a code or a download page, together. This repository also reports the datasets for Place Recognition and various algorithms utilized in Place Recognition (e.g. multi-robot mapping, SLAM).
 
-LiDAR Place Recognition can be broadly categorized into **`Handcraft`**-based and **learning**-based methods. 
+LiDAR Place Recognition can be broadly categorized into **Handcraft**-based and **learning**-based methods. 
 
 Datasets for LiDAR Place Recognition are classified into **single-session**, **multi-session**, and **multi-robot session**. Additionally, it is possible to confirm which **LiDAR** was used and which **vehicle** was utilized (🚙 🤖 🛩️ 🚢).
 
