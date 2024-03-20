@@ -15,7 +15,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 ## Contents
 
-- [News](#news)
+<!-- - [News](#news) -->
 - [LiDAR Place Recognition Methods](#lidar-place-recognition-methods)
 - [LiDAR Place Recognition Datasets](#lidar-place-recognition-datasets)
 - [LiDAR Place Recognition with Various Algorithms](#lidar-place-recognition-with-various-algorithms)
