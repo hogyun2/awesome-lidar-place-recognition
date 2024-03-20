@@ -22,8 +22,8 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 - 2024
 
-  - **`Handcraft`** **`ICRA`** Effectively Detecting Loop Closures using Point Cloud Density Maps [![Paper](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/gupta2024icra.pdf)  [![GitHub](https://github.com/PRBonn/MapClosures) 🔥
-  - **`Handcraft`** ❓ BTC: A Binary and Triangle Combined Descriptor for 3D Place Recognition **`under-review`** [![GitHub](https://github.com/hku-mars/btc_descriptor) 🔥
+  - **`Handcraft`** **`ICRA`** Effectively Detecting Loop Closures using Point Cloud Density Maps [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/gupta2024icra.pdf)  [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/PRBonn/MapClosures) 🔥
+  - **`Handcraft`** ❓ BTC: A Binary and Triangle Combined Descriptor for 3D Place Recognition **`under-review`** [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/hku-mars/btc_descriptor) 🔥
   - **`Learning`** **`RAL`** P-GAT : Pose-Graph Attentional Network for Lidar Place Recognition  [![arXiv](https://img.shields.io/badge/arXiv-2309.00168-b31b1b.svg?style=flat-square)](https://arxiv.org/pdf/2309.00168.pdf) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/csiro-robotics/P-GAT)
 
 
