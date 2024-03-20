@@ -26,7 +26,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   - **`Handcraft`** ❓ BTC: A Binary and Triangle Combined Descriptor for 3D Place Recognition **`under-review`** [**`code`**](https://github.com/hku-mars/btc_descriptor) 🔥
 
-  - **`Learning`** **`RAL`** P-GAT : Pose-Graph Attentional Network for Lidar Place Recognition [![arXiv](https://img.shields.io/badge/arXiv-2304.08485-b31b1b.svg?style=flat-square)](https://arxiv.org/pdf/2309.00168.pdf) [**`code`**](https://github.com/csiro-robotics/P-GAT)
+  - **`Learning`** **`RAL`** P-GAT : Pose-Graph Attentional Network for Lidar Place Recognition [![arXiv](https://img.shields.io/badge/arXiv-2309.00168-b31b1b.svg?style=flat-square)](https://arxiv.org/pdf/2309.00168.pdf) [**`code`**](https://github.com/csiro-robotics/P-GAT)
 
 
 - 2023
