@@ -105,19 +105,33 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 - 2021
 
-    - **`Handcraft`** **`ICRA`** Robust Place Recognition using an Imaging Lidar [`pdf`](https://arxiv.org/abs/2103.02111) [`code`](https://github.com/TixiaoShan/imaging_lidar_place_recognition) 🔥
+  - **`Handcraft`** **`ICRA`** Robust Place Recognition using an Imaging Lidar 🔥
 
-    - **`Learning`** **`ICRA`** Locus: LiDAR-based Place Recognition using Spatiotemporal Higher-Order Pooling [`pdf`](https://arxiv.org/abs/2011.14497) [`code`](https://github.com/csiro-robotics/locus) 🔥
+    [![arXiv](https://img.shields.io/badge/arXiv-2103.02111-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2103.02111) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/TixiaoShan/imaging_lidar_place_recognition)  
 
-    - **`Learning`** **`ICRA`** NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation [`pdf`](https://arxiv.org/abs/2103.12292) [`code`](https://github.com/dachengxiaocheng/NDT-Transformer) 🔥
+  - **`Learning`** **`ICRA`** Locus: LiDAR-based Place Recognition using Spatiotemporal Higher-Order Pooling 🔥
 
-    - **`Learning`** **`RAL/ICRA`** Disco: Differentiable scan context with orientation [`pdf`](https://arxiv.org/abs/2010.10949) [`code`](https://github.com/MaverickPeter/DiSCO-pytorch) 🔥
+    [![arXiv](https://img.shields.io/badge/arXiv-2011.14497-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2011.14497) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/csiro-robotics/locus)  
 
-    - **`Learning`** **`RAL`** EgoNN: Egocentric Neural Network for Point Cloud Based 6DoF Relocalization at the City Scale [`pdf`](https://arxiv.org/abs/2110.12486) [`code`](https://github.com/jac99/Egonn)
+  - **`Learning`** **`ICRA`** NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation 🔥
 
-    - **`Learning`** **`WACV`** MinkLoc3D: Point Cloud Based Large-Scale Place Recognition [`pdf`](https://arxiv.org/abs/2011.04530) [`code`](https://github.com/jac99/MinkLoc3D) 🔥
+    [![arXiv](https://img.shields.io/badge/arXiv-2103.12292-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2103.12292) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/dachengxiaocheng/NDT-Transformer)  
 
-    - **`Learning`** **`RAL`** MinkLoc3D-SI: 3D LiDAR Place Recognition With Sparse Convolutions, Spherical Coordinates, and Intensity [`pdf`](https://arxiv.org/abs/2112.06539) [`code`](https://github.com/KamilZywanowski/MinkLoc3D-SI)
+  - **`Learning`** **`RAL/ICRA`** Disco: Differentiable scan context with orientation 🔥
+
+    [![arXiv](https://img.shields.io/badge/arXiv-2010.10949-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2010.10949) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MaverickPeter/DiSCO-pytorch)  
+
+  - **`Learning`** **`RAL`** EgoNN: Egocentric Neural Network for Point Cloud Based 6DoF Relocalization at the City Scale
+
+    [![arXiv](https://img.shields.io/badge/arXiv-2110.12486-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2110.12486) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/jac99/Egonn)  
+
+  - **`Learning`** **`WACV`** MinkLoc3D: Point Cloud Based Large-Scale Place Recognition 🔥
+
+    [![arXiv](https://img.shields.io/badge/arXiv-2011.04530-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2011.04530) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/jac99/MinkLoc3D)  
+
+  - **`Learning`** **`RAL`** MinkLoc3D-SI: 3D LiDAR Place Recognition With Sparse Convolutions, Spherical Coordinates, and Intensity
+
+    [![arXiv](https://img.shields.io/badge/arXiv-2112.06539-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2112.06539) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/KamilZywanowski/MinkLoc3D-SI)  
 
 
 - 2020
