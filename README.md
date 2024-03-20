@@ -200,7 +200,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 - 2024
   - **`Single/Multi`** **`IJRR`** **`OS2-128`** **`VLP-16`** **`Livox-Avia`** **`Aeva`** Heterogeneous LiDAR Dataset for inter-LiDAR Place Recognition 🚙
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2309.14590-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2309.14590) [![ProjectPage](fig/badges/badge-website.svg)](https://sites.google.com/view/heliprdataset)
+    [![arXiv](https://img.shields.io/badge/arXiv-2309.14590-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2309.14590) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://sites.google.com/view/heliprdataset)
 
   - **`Single/Multi`** **`IEEE Sensors Letter`** **`OS1-64`** **`OS1-32`** DiTer: Diverse Terrain and Multi-Modal Dataset for Field Robot Navigation in Outdoor Environments [`pdf`](https://ieeexplore.ieee.org/abstract/document/10416213) [`download`](https://sites.google.com/view/diter-dataset/) 🚙
   
