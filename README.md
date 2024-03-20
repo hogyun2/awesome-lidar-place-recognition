@@ -136,43 +136,63 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 - 2020
 
-  - **`Handcraft`** **`IROS`** LiDAR Iris for Loop-Closure Detection [`pdf`](https://arxiv.org/abs/1912.03825) [`code`](https://github.com/BigMoWangying/LiDAR-Iris) 🔥
+  - **`Handcraft`** **`IROS`** LiDAR Iris for Loop-Closure Detection 🔥
 
-  - **`Handcraft`** **`ICRA`** Intensity Scan Context: Coding Intensity and Geometry Relations for Loop Closure Detection [`pdf`](https://arxiv.org/abs/2003.05656) [`code`](https://github.com/wh200720041/iscloam) 🔥
+    [![arXiv](https://img.shields.io/badge/arXiv-1912.03825-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/1912.03825) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/BigMoWangying/LiDAR-Iris)  
 
-  - **`Learning`** **`RSS`** OverlapNet: Loop Closing for LiDAR-based SLAM [`pdf`](https://arxiv.org/abs/2105.11344) [`code`](https://github.com/PRBonn/OverlapNet) 🔥
+  - **`Handcraft`** **`ICRA`** Intensity Scan Context: Coding Intensity and Geometry Relations for Loop Closure Detection 🔥
 
-  - **`Learning`** **`TITS`** 3D LiDAR-Based Global Localization Using Siamese Neural Network [`pdf`](https://ieeexplore.ieee.org/abstract/document/8734150) [`code`](https://github.com/HuanYin94/LocNet_caffe) 🔥
+    [![arXiv](https://img.shields.io/badge/arXiv-2003.05656-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2003.05656) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/wh200720041/iscloam)  
 
-  - **`Learning`** **`IROS`** Semantic Graph Based Place Recognition for 3D Point Clouds [`pdf`](https://arxiv.org/abs/2008.11459) [`code`](https://github.com/kxhit/SG_PR) 🔥
+  - **`Learning`** **`RSS`** OverlapNet: Loop Closing for LiDAR-based SLAM 🔥
+
+    [![arXiv](https://img.shields.io/badge/arXiv-2105.11344-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2105.11344) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/PRBonn/OverlapNet)  
+
+  - **`Learning`** **`TITS`** 3D LiDAR-Based Global Localization Using Siamese Neural Network 🔥
+
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/8734150) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/HuanYin94/LocNet_caffe)  
+
+  - **`Learning`** **`IROS`** Semantic Graph Based Place Recognition for 3D Point Clouds 🔥
+
+    [![arXiv](https://img.shields.io/badge/arXiv-2008.11459-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2008.11459) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/kxhit/SG_PR)  
 
 
 - 2019
 
-  - **`Learning`** **`CVPR`** PCAN: 3D Attention Map Learning Using Contextual Information for Point Cloud Based Retrieval [`pdf`](https://arxiv.org/abs/1904.09793) [`code`](https://github.com/XLechter/PCAN) 🔥
+  - **`Learning`** **`CVPR`** PCAN: 3D Attention Map Learning Using Contextual Information for Point Cloud Based Retrieval
+
+    [![arXiv](https://img.shields.io/badge/arXiv-1904.09793-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/1904.09793) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/XLechter/PCAN)  
 
 
 - 2018
 
-  - **`Handcraft`** **`IROS`** Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map [`pdf`](https://ieeexplore.ieee.org/abstract/document/8593953) [`code`](https://github.com/gisbi-kim/scancontext) 🔥
+  - **`Handcraft`** **`IROS`** Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map 🔥
 
-  - **`Learning`** **`CVPR`** PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition [`pdf`](https://arxiv.org/abs/1804.03492) [`code`](https://github.com/mikacuy/pointnetvlad) 🔥
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/8593953) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/scancontext)  
+
+  - **`Learning`** **`CVPR`** PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition 🔥
+
+    [![arXiv](https://img.shields.io/badge/arXiv-1804.03492-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/1804.03492) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/mikacuy/pointnetvlad)  
 
 
 - 2017
 
-  - **`Learning`** **`ICRA`** SegMatch: Segment based place recognition in 3D point clouds [`pdf`](https://arxiv.org/abs/1609.077200.pdf) [`code`](https://github.com/ZengYeGe/segmatch) 🔥
+  - **`Learning`** **`ICRA`** SegMatch: Segment based place recognition in 3D point clouds 🔥
+
+    [![arXiv](https://img.shields.io/badge/arXiv-1609.077200-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/1609.077200) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ZengYeGe/segmatch)  
 
 
 - 2016
 
-  - **`Handcraft`** **`IROS`** M2DP: A novel 3D point cloud descriptor and its application in loop closure detection [`pdf`](https://ieeexplore.ieee.org/abstract/document/7759060) [`code`](https://github.com/LiHeUA/M2DP) 🔥
+  - **`Handcraft`** **`IROS`** M2DP: A novel 3D point cloud descriptor and its application in loop closure detection 🔥
 
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/7759060) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/LiHeUA/M2DP)  
 
 - 2015
 
-  - **`Handcraft`** **`IROS`** A Fast Histogram-Based Similarity Measure for Detecting Loop Closures in 3-D LIDAR Data [`pdf`](https://ieeexplore.ieee.org/abstract/document/7353454) [`code`](https://github.com/wangliuliu/histogram) 🔥
+  - **`Handcraft`** **`IROS`** A Fast Histogram-Based Similarity Measure for Detecting Loop Closures in 3-D LIDAR Data 🔥
 
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/7353454) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/wangliuliu/histogram)  
 
 
 ## LiDAR Place Recognition Datasets
