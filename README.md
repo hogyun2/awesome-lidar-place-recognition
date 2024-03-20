@@ -1,5 +1,4 @@
 # Awesome LiDAR Place Recognition [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 ![image](awesome-lidar-place-recognition.gif)
 
 > Thumbnail Figures from Complex Urban, Wild-Places, and DiTer datasets / our place recognition method (TBD) / DiSCo-SLAM.  
@@ -14,15 +13,23 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 🔥 represents a paper citation count of 50 or more, or a code's star count of 50 or more.
 
+
 ## News
 **`24.03.19`**  First commit! 
+
+
+## Contents
+
+- [Methods](#lidar-place-recognition-datasets)
+- [Datasets](#lidar-place-recognition-methods)
+- [Algorithms](#lidar-place-recognition-with-various-algorithms)
 
 
 ## LiDAR Place Recognition Methods
 
 - 2024
 
-  - **`Handcraft`** **`ICRA`** Effectively Detecting Loop Closures using Point Cloud Density Maps [`pdf`](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/gupta2024icra.pdf)  [`code`](https://github.com/PRBonn/MapClosures) 🔥
+  - **`Handcraft`** **`ICRA`** Effectively Detecting Loop Closures using Point Cloud Density Maps [`pdf`](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/gupta2024icra.pdf) [`code`](https://github.com/PRBonn/MapClosures) 🔥
 
   - **`Handcraft`** ❓ BTC: A Binary and Triangle Combined Descriptor for 3D Place Recognition **`under-review`** [`code`](https://github.com/hku-mars/btc_descriptor) 🔥
 
@@ -185,7 +192,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 
 
-## LiDAR Place Recognition with various algorithms
+## LiDAR Place Recognition with Various Algorithms
 
 - 2023
 
@@ -205,3 +212,4 @@ Finally, **various algorithms** that play an important role in Place Recognition
 ## Contact
 
 - Hogyun Kim (hg.kim@inha.edu)
+
