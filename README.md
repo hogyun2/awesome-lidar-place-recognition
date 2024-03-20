@@ -202,8 +202,10 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
     [![arXiv](https://img.shields.io/badge/arXiv-2309.14590-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2309.14590) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://sites.google.com/view/heliprdataset)
 
-  - **`Single/Multi`** **`IEEE Sensors Letter`** **`OS1-64`** **`OS1-32`** DiTer: Diverse Terrain and Multi-Modal Dataset for Field Robot Navigation in Outdoor Environments [`pdf`](https://ieeexplore.ieee.org/abstract/document/10416213) [`download`](https://sites.google.com/view/diter-dataset/) 🚙
-  
+  - **`Single/Multi`** **`IEEE Sensors Letter`** **`OS1-64`** **`OS1-32`** DiTer: Diverse Terrain and Multi-Modal Dataset for Field Robot Navigation in Outdoor Environments 🤖
+
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/10416213) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://sites.google.com/view/diter-dataset/)
+
   - **`Multi`** **`RAL`** **`VLP-16`** **`Livox-Avia`** BotanicGarden: A High-Quality Dataset for Robot Navigation in Unstructured Natural Environments [`pdf`](https://arxiv.org/abs/2306.14137) [`download`](https://github.com/robot-pesg/BotanicGarden) 🤖
 
 
