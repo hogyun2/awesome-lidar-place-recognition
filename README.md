@@ -206,60 +206,93 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
     [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/10416213) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://sites.google.com/view/diter-dataset/)
 
-  - **`Multi`** **`RAL`** **`VLP-16`** **`Livox-Avia`** BotanicGarden: A High-Quality Dataset for Robot Navigation in Unstructured Natural Environments [`pdf`](https://arxiv.org/abs/2306.14137) [`download`](https://github.com/robot-pesg/BotanicGarden) 🤖
+  - **`Multi`** **`RAL`** **`VLP-16`** **`Livox-Avia`** BotanicGarden: A High-Quality Dataset for Robot Navigation in Unstructured Natural Environments 🤖
 
+    [![arXiv](https://img.shields.io/badge/arXiv-2306.14137-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2306.14137) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://github.com/robot-pesg/BotanicGarden)
 
 - 2023
 
-  - **`Single/Multi`** **`ICRA`** **`VLP-16`** Wild-Places: A Large-Scale Dataset for Lidar Place Recognition in Unstructured Natural Environments [`pdf`](https://arxiv.org/abs/2211.12732) [`download`](https://csiro-robotics.github.io/Wild-Places/) 🧔
+  - **`Single/Multi`** **`ICRA`** **`VLP-16`** Wild-Places: A Large-Scale Dataset for Lidar Place Recognition in Unstructured Natural Environments 🧔
 
-  - **`Multi`** **`IROS-workshop`** **`Mid-70`** ConPR: Ongoing Construction Site Dataset for Place Recognition [`pdf`](https://oravus.github.io/vpr-workshop/assets/accepted_papers/1_conpr_ongoing_construction_sit.pdf) [`download`](https://github.com/dongjae0107/ConPR) 🧔
+    [![arXiv](https://img.shields.io/badge/arXiv-2211.12732-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2211.12732) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://csiro-robotics.github.io/Wild-Places/)
 
-  - **`Multi`** **`IJRR`** **`VLP-128`** Boreas: A Multi-Season Autonomous Driving Dataset [`pdf`](https://arxiv.org/abs/2203.10168) [`download`](https://www.boreas.utias.utoronto.ca/#/) 🚙
+  - **`Multi`** **`IROS-workshop`** **`Mid-70`** ConPR: Ongoing Construction Site Dataset for Place Recognition 🧔
 
-  - **`Multi`** **`ISVC`** **`VLP-16`** Multimodal Dataset for Localization, Mapping and Crop Monitoring in Citrus Tree Farms [`pdf`](https://arxiv.org/abs/2309.15332) [`download`](https://ucr-robotics.github.io/Citrus-Farm-Dataset/) 🤖
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://oravus.github.io/vpr-workshop/assets/accepted_papers/1_conpr_ongoing_construction_sit.pdf) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://github.com/dongjae0107/ConPR)
 
-  - **`Multi`** **`RAL`** **`VLP-16`** GRACO: A Multimodal Dataset for Ground and Aerial Cooperative Localization and Mapping [`pdf`](https://ieeexplore.ieee.org/abstract/document/10008011) [`download`](https://sites.google.com/view/graco-dataset) 🛩️ 🤖
+  - **`Multi`** **`IJRR`** **`VLP-128`** Boreas: A Multi-Season Autonomous Driving Dataset 🚙
 
-  - **`Multi`** **`IJRR`** **`OS1-64`** **`OS1-32`** Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters [`pdf`](https://arxiv.org/abs/2303.05555) [`download`](https://sites.google.com/view/pohang-canal-dataset) 🚢
+    [![arXiv](https://img.shields.io/badge/arXiv-2203.10168-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2203.10168) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://www.boreas.utias.utoronto.ca/#/)
 
-  - **`Multi-Robot`** **`Arxiv`** **`VLP-16`** S3E: A Large-scale Multimodal Dataset for Collaborative SLAM [`pdf`](https://arxiv.org/abs/2210.13723) [`download`](https://github.com/PengYu-Team/S3E) 🤖
+  - **`Multi`** **`ISVC`** **`VLP-16`** Multimodal Dataset for Localization, Mapping and Crop Monitoring in Citrus Tree Farms 🤖
 
-  - **`Multi-Robot`** **`Arxiv`** **`VLP-16`** Resilient and Distributed Multi-Robot Visual SLAM: Datasets, Experiments, and Lessons Learned [`pdf`](https://arxiv.org/abs/2304.04362) [`download`](https://github.com/MIT-SPARK/Kimera-Multi-Data) 🤖
+    [![arXiv](https://img.shields.io/badge/arXiv-2309.15332-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2309.15332) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://ucr-robotics.github.io/Citrus-Farm-Dataset/)
+
+  - **`Multi`** **`RAL`** **`VLP-16`** GRACO: A Multimodal Dataset for Ground and Aerial Cooperative Localization and Mapping 🛩️ 🤖
+
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/10008011) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://sites.google.com/view/graco-dataset)
+
+  - **`Multi`** **`IJRR`** **`OS1-64`** **`OS1-32`** Pohang Canal Dataset: A Multimodal Maritime Dataset for Autonomous Navigation in Restricted Waters 🚢
+
+    [![arXiv](https://img.shields.io/badge/arXiv-2303.05555-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2303.05555) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://sites.google.com/view/pohang-canal-dataset)
+
+  - **`Multi-Robot`** **`Arxiv`** **`VLP-16`** S3E: A Large-scale Multimodal Dataset for Collaborative SLAM 🤖
+
+    [![arXiv](https://img.shields.io/badge/arXiv-2210.13723-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2210.13723) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://github.com/PengYu-Team/S3E)
+
+  - **`Multi-Robot`** **`Arxiv`** **`VLP-16`** Resilient and Distributed Multi-Robot Visual SLAM: Datasets, Experiments, and Lessons Learned 🤖
+
+    [![arXiv](https://img.shields.io/badge/arXiv-2304.04362-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2304.04362) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://github.com/MIT-SPARK/Kimera-Multi-Data)
 
 
 - 2022
 
-  - **`Multi-Robot`** **`RAL`** **`VLP-16`** DiSCo-SLAM: Distributed Scan Context-Enabled Multi-Robot LiDAR SLAM With Two-Stage Global-Local Graph Optimization [`pdf`](https://ieeexplore.ieee.org/abstract/document/9662965) [`code`](https://github.com/RobustFieldAutonomyLab/DiSCo-SLAM) 🤖
+  - **`Multi-Robot`** **`RAL`** **`VLP-16`** DiSCo-SLAM: Distributed Scan Context-Enabled Multi-Robot LiDAR SLAM With Two-Stage Global-Local Graph Optimization 🤖
+
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/9662965) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://github.com/RobustFieldAutonomyLab/DiSCo-SLAM)
 
 
 - 2021
 
-    - **`Single`** **`ICRA`** **`OS1-128`** Robust Place Recognition using an Imaging Lidar [`pdf`](https://arxiv.org/abs/2103.02111) [`code`](https://github.com/TixiaoShan/imaging_lidar_place_recognition) 🧔
+    - **`Single`** **`ICRA`** **`OS1-128`** Robust Place Recognition using an Imaging Lidar 🧔
+
+    [![arXiv](https://img.shields.io/badge/arXiv-2103.02111-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2103.02111) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://github.com/TixiaoShan/imaging_lidar_place_recognition)
 
 
 - 2020
 
-  - **`Single/Multi`** **`ICRA`** **`OS1-64`** Multimodal Range Dataset for Urban Place Recognition [`pdf`](https://ieeexplore.ieee.org/abstract/document/9197298) [`download`](https://sites.google.com/view/mulran-pr) 🚙
+  - **`Single/Multi`** **`ICRA`** **`OS1-64`** Multimodal Range Dataset for Urban Place Recognition 🚙
 
-  - **`Single/Multi`** **`ICRA`** **`HDL-32`** The Oxford Radar RobotCar Dataset: A Radar Extension to the Oxford RobotCar Dataset [`pdf`](https://arxiv.org/abs/1909.01300) [`download`](https://oxford-robotics-institute.github.io/radar-robotcar-dataset/) 🚙
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/9197298) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://sites.google.com/view/mulran-pr)
 
-  - **`Single/Multi`** **`IROS`** **`HDL-32`** EU Long-term Dataset with Multiple Sensors for Autonomous Driving [`pdf`](https://arxiv.org/abs/1909.03330) [`download`](https://epan-utbm.github.io/utbm_robocar_dataset/) 🚙
+  - **`Single/Multi`** **`ICRA`** **`HDL-32`** The Oxford Radar RobotCar Dataset: A Radar Extension to the Oxford RobotCar Dataset 🚙
+
+    [![arXiv](https://img.shields.io/badge/arXiv-1909.01300-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/1909.01300) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://oxford-robotics-institute.github.io/radar-robotcar-dataset/)
+
+  - **`Single/Multi`** **`IROS`** **`HDL-32`** EU Long-term Dataset with Multiple Sensors for Autonomous Driving 🚙
+
+    [![arXiv](https://img.shields.io/badge/arXiv-1909.03330-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/1909.03330) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://epan-utbm.github.io/utbm_robocar_dataset/)
 
 
 - 2019
 
-  - **`Single`** **`IJRR`** **`VLP-16`** Complex urban dataset with multi-level sensors from highly diverse urban environments [`pdf`](https://journals.sagepub.com/doi/full/10.1177/0278364919843996) [`download`](https://sites.google.com/view/complex-urban-dataset/system?authuser=0) 🚙
+  - **`Single`** **`IJRR`** **`VLP-16`** Complex urban dataset with multi-level sensors from highly diverse urban environments [`pdf`](https://journals.sagepub.com/doi/full/10.1177/0278364919843996) [`download`](https://sites.google.com/view/complex-urban-dataset) 🚙
+
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://journals.sagepub.com/doi/full/10.1177/0278364919843996) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://sites.google.com/view/complex-urban-dataset)
 
 
 - 2016
 
-  - **`Multi`** **`IJRR`** **`HDL-32`** University of Michigan North Campus long-term vision and lidar dataset [`pdf`](https://journals.sagepub.com/doi/full/10.1177/0278364915614638) [`download`](http://robots.engin.umich.edu/nclt/) 🤖
+  - **`Multi`** **`IJRR`** **`HDL-32`** University of Michigan North Campus long-term vision and lidar dataset 🤖
+
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://journals.sagepub.com/doi/full/10.1177/0278364915614638) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](http://robots.engin.umich.edu/nclt/)
 
 
 - 2013
 
-  - **`Single`** **`IJRR`** **`HDL-64`** Vision meets Robotics: The KITTI Dataset [`pdf`](https://journals.sagepub.com/doi/full/10.1177/0278364913491297) [`download`](https://www.cvlibs.net/datasets/kitti/raw_data.php) 🚙
+  - **`Single`** **`IJRR`** **`HDL-64`** Vision meets Robotics: The KITTI Dataset 🚙
+
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://journals.sagepub.com/doi/full/10.1177/0278364913491297) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://www.cvlibs.net/datasets/kitti/raw_data.php)
 
 
 
@@ -267,16 +300,24 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 - 2023
 
-  - **`Multi-Robot SLAM`** **`IEEE Sensors Journal`** DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm [`pdf`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10375928) [`code`](https://github.com/PengYu-Team/DCL-SLAM) 🔥
+  - **`Multi-Robot SLAM`** **`IEEE Sensors Journal`** DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm 🔥
+
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10375928) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/PengYu-Team/DCL-SLAM)  
 
 
 - 2022
 
-  - **`Multi-Robot SLAM`** **`RAL`** DiSCo-SLAM: Distributed Scan Context-Enabled Multi-Robot LiDAR SLAM With Two-Stage Global-Local Graph Optimization [`pdf`](https://ieeexplore.ieee.org/abstract/document/9662965) [`code`](https://github.com/RobustFieldAutonomyLab/DiSCo-SLAM) 🔥
+  - **`Multi-Robot SLAM`** **`RAL`** DiSCo-SLAM: Distributed Scan Context-Enabled Multi-Robot LiDAR SLAM With Two-Stage Global-Local Graph Optimization 🔥
 
-  - **`Mapping Framework`** **`ICRA`** LT-mapper: A Modular Framework for LiDAR-based Lifelong Mapping [`pdf`](https://arxiv.org/abs/2107.07712) [`code`](https://github.com/gisbi-kim/lt-mapper) 🔥
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/9662965) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/RobustFieldAutonomyLab/DiSCo-SLAM)  
+
+  - **`Mapping Framework`** **`ICRA`** LT-mapper: A Modular Framework for LiDAR-based Lifelong Mapping 🔥
+
+    [![arXiv](https://img.shields.io/badge/arXiv-2107.07712-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2107.07712) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/lt-mapper)  
 
   - **`SLAM Framework`** **`ICEIC`** SC-LiDAR-SLAM: A Front-end Agnostic Versatile LiDAR SLAM System [`pdf`](https://arxiv.org/abs/2201.06423) [`SC-A-LOAM`](https://github.com/gisbi-kim/SC-A-LOAM) [`SC-LeGO-LOAM`](https://github.com/gisbi-kim/SC-LeGO-LOAM) [`SC-LIO-SAM`](https://github.com/gisbi-kim/SC-LIO-SAM)[`FAST-LIO-SLAM`](https://github.com/gisbi-kim/FAST_LIO_SLAM) 🔥
+
+    [![arXiv](https://img.shields.io/badge/arXiv-2201.06423-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2201.06423) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/SC-A-LOAM) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/SC-LeGO-LOAM) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/SC-LIO-SAM) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/FAST_LIO_SLAM)  
 
 
 
