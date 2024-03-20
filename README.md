@@ -315,7 +315,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
     [![arXiv](https://img.shields.io/badge/arXiv-2107.07712-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2107.07712) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/lt-mapper)  
 
-  - **`SLAM Framework`** **`ICEIC`** SC-LiDAR-SLAM: A Front-end Agnostic Versatile LiDAR SLAM System [`pdf`](https://arxiv.org/abs/2201.06423) [`SC-A-LOAM`](https://github.com/gisbi-kim/SC-A-LOAM) [`SC-LeGO-LOAM`](https://github.com/gisbi-kim/SC-LeGO-LOAM) [`SC-LIO-SAM`](https://github.com/gisbi-kim/SC-LIO-SAM)[`FAST-LIO-SLAM`](https://github.com/gisbi-kim/FAST_LIO_SLAM) 🔥
+  - **`SLAM Framework`** **`ICEIC`** SC-LiDAR-SLAM: A Front-end Agnostic Versatile LiDAR SLAM System 🔥
 
     [![arXiv](https://img.shields.io/badge/arXiv-2201.06423-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2201.06423) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/SC-A-LOAM) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/SC-LeGO-LOAM) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/SC-LIO-SAM) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/FAST_LIO_SLAM)  
 
