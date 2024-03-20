@@ -276,7 +276,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 - 2019
 
-  - **`Single`** **`IJRR`** **`VLP-16`** Complex urban dataset with multi-level sensors from highly diverse urban environments [`pdf`](https://journals.sagepub.com/doi/full/10.1177/0278364919843996) [`download`](https://sites.google.com/view/complex-urban-dataset) 🚙
+  - **`Single`** **`IJRR`** **`VLP-16`** Complex urban dataset with multi-level sensors from highly diverse urban environments 🚙
 
     [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://journals.sagepub.com/doi/full/10.1177/0278364919843996) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://sites.google.com/view/complex-urban-dataset)
 
