@@ -13,16 +13,17 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 🔥 represents a paper citation count of 50 or more, or a code's star count of 50 or more.
 
+## Contents
+
+- [Methods](#lidar-place-recognition-methods)
+- [Datasets](#lidar-place-recognition-datasets)
+- [Algorithms](#lidar-place-recognition-with-various-algorithms)
+
+
 
 ## News
 **`24.03.19`**  First commit! 
 
-
-## Contents
-
-- [Methods](#lidar-place-recognition-datasets)
-- [Datasets](#lidar-place-recognition-methods)
-- [Algorithms](#lidar-place-recognition-with-various-algorithms)
 
 
 ## LiDAR Place Recognition Methods
