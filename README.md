@@ -212,3 +212,4 @@ Finally, **various algorithms** that play an important role in Place Recognition
 ## Contact
 
 - Hogyun Kim (hg.kim@inha.edu)
+
