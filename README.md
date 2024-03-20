@@ -39,19 +39,26 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   - **`Learning`** **`RAL`** P-GAT : Pose-Graph Attentional Network for Lidar Place Recognition
 
-      [![arXiv](https://img.shields.io/badge/arXiv-2310.03744-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2309.00168) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/csiro-robotics/P-GAT)  
+    [![arXiv](https://img.shields.io/badge/arXiv-2309.00168-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2309.00168) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/csiro-robotics/P-GAT)  
 
 
 - 2023
 
-  - **`Handcraft`** **`TRO`** RING++: Roto-Translation-Invariant Gram for Global Localization on a Sparse Scan Map [`pdf`](https://arxiv.org/abs/2210.05984) [`code`](https://github.com/lus6-Jenny/RING) 🔥
+  - **`Handcraft`** **`TRO`** RING++: Roto-Translation-Invariant Gram for Global Localization on a Sparse Scan Map 🔥
 
-  - **`Handcraft`** **`ICRA`** STD: A Stable Triangle Descriptor for 3D place recognition [`pdf`](https://arxiv.org/abs/2209.12435) [`code`](https://github.com/hku-mars/STD) 🔥
-  
-  - **`Learning`** **`ICCV`** BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images [`pdf`](https://arxiv.org/abs/2302.14325) [`code`](https://github.com/zjuluolun/BEVPlace) 🔥
-  
-  - **`Learning`** **`IROS`** Uncertainty-Aware Lidar Place Recognition in Novel Environments [`pdf`](https://arxiv.org/abs/2210.01361) [`code`](https://github.com/csiro-robotics/Uncertainty-LPR) 🔥
+    [![arXiv](https://img.shields.io/badge/arXiv-2210.05984-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2210.05984) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/lus6-Jenny/RING)  
 
+  - **`Handcraft`** **`ICRA`** STD: A Stable Triangle Descriptor for 3D place recognition 🔥
+  
+    [![arXiv](https://img.shields.io/badge/arXiv-2209.12435-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2209.12435) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/hku-mars/STD)  
+
+  - **`Learning`** **`ICCV`** BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images 🔥
+  
+    [![arXiv](https://img.shields.io/badge/arXiv-2302.14325-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2302.14325) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/zjuluolun/BEVPlace)  
+
+  - **`Learning`** **`IROS`** Uncertainty-Aware Lidar Place Recognition in Novel Environments 🔥
+
+    [![arXiv](https://img.shields.io/badge/arXiv-2210.01361-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2210.01361) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/csiro-robotics/Uncertainty-LPR)  
 
 - 2022
   
