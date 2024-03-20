@@ -5,7 +5,7 @@
 
 This repository is the collection of LiDAR Place Recognition Research that provides a code or a download page, together. This repository also reports the datasets for Place Recognition and various algorithms utilized in Place Recognition (e.g. multi-robot mapping, SLAM).
 
-LiDAR Place Recognition can be broadly categorized into **Handcraft**-based and **learning**-based methods. 
+LiDAR Place Recognition can be broadly categorized into **handcraft**-based and **learning**-based methods. 
 
 Datasets for LiDAR Place Recognition are classified into **single-session**, **multi-session**, and **multi-robot session**. Additionally, it is possible to confirm which **LiDAR** was used and which **vehicle** was utilized (🚙 🤖 🛩️ 🚢).
 
@@ -305,6 +305,10 @@ Finally, **various algorithms** that play an important role in Place Recognition
 ## LiDAR Place Recognition with Various Algorithms
 
 - 2023
+
+  - **`Multi-Robot SLAM`** **`TRO`** MR_SLAM with RING++: Roto-Translation-Invariant Gram for Global Localization on a Sparse Scan Map 🔥
+
+    [![arXiv](https://img.shields.io/badge/arXiv-2210.05984-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2210.05984) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MaverickPeter/MR_SLAM.git)  
 
   - **`Multi-Robot SLAM`** **`IEEE Sensors Journal`** DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm 🔥
 
