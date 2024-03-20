@@ -108,6 +108,10 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
     [![arXiv](https://img.shields.io/badge/arXiv-2209.07951-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2209.07951) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/BIT-MJY/SeqOT)  
 
+  - **`Learning`** **`IROS`** D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR SLAM in Complicated Circumstances with Noisy Point Clouds 🔥
+
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/9981388) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/KangchengLiu/DLC_LiDAR_SLAM)  
+
 
 - 2021
 
@@ -314,6 +318,9 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
     [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10375928) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/PengYu-Team/DCL-SLAM)  
 
+  - **`SLAM Framework`** **`IEEE/ASME Transactions on Mechatronics`** DLC-SLAM: A Robust LiDAR-SLAM System With Learning-Based Denoising and Loop Closure 🔥
+
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/10092189) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/KangchengLiu/DLC_LiDAR_SLAM)  
 
 - 2022
 
