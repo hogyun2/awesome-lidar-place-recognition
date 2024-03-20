@@ -35,13 +35,17 @@ Finally, **various algorithms** that play an important role in Place Recognition
     
     [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/gupta2024icra.pdf) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/PRBonn/MapClosures)  
   
-  - **`Handcraft`** ❓ BTC: A Binary and Triangle Combined Descriptor for 3D Place Recognition 🔥
+  - **`Handcraft`** **`TRO`** BTC: A Binary and Triangle Combined Descriptor for 3D Place Recognition 🔥
 
-     **`under-review`** [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/hku-mars/btc_descriptor)  
+     [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10388464) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/hku-mars/btc_descriptor)  
 
-  - **`Learning`** **`RAL`** P-GAT : Pose-Graph Attentional Network for Lidar Place Recognition
+  - **`Learning`** **`RAL`** P-GAT: Pose-Graph Attentional Network for Lidar Place Recognition
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2309.00168-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2309.00168) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/csiro-robotics/P-GAT)  
+    [![arXiv](https://img.shields.io/badge/arXiv-2309.00168-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2309.00168) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/csiro-robotics/P-GAT)
+
+  - **`Learning`** **`ICCV`** CrossLoc3D: Aerial-Ground Cross-Source 3D Place Recognition
+
+    [![arXiv](https://img.shields.io/badge/arXiv-2309.00168-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2303.17778) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/rayguan97/crossloc3d) 
 
 
 - 2023
