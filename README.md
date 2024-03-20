@@ -254,7 +254,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 - 2021
 
-    - **`Single`** **`ICRA`** **`OS1-128`** Robust Place Recognition using an Imaging Lidar 🧔
+  - **`Single`** **`ICRA`** **`OS1-128`** Robust Place Recognition using an Imaging Lidar 🧔
 
     [![arXiv](https://img.shields.io/badge/arXiv-2103.02111-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2103.02111) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://github.com/TixiaoShan/imaging_lidar_place_recognition)
 
