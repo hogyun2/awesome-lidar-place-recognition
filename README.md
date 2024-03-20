@@ -62,25 +62,45 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 - 2022
   
-    - **`Handcraft`** **`ICARCV`** Frequency-Domain Scan Context for Robust LiDAR-based Place Recognition with Translation and Rotation Invariance [`pdf`](https://arxiv.org/abs/2206.12628) [`code`](https://github.com/soytony/FreSCo) 🔥
+    - **`Handcraft`** **`ICARCV`** Frequency-Domain Scan Context for Robust LiDAR-based Place Recognition with Translation and Rotation Invariance 🔥
   
-    - **`Handcraft`** **`TRO`** Scan Context++: Structural Place Recognition Robust to Rotation and Lateral Variations in Urban Environments [`pdf`](https://arxiv.org/abs/2109.13494) [`code`](https://github.com/gisbi-kim/scancontext_tro) 🔥
+    [![arXiv](https://img.shields.io/badge/arXiv-2206.12628-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2206.12628) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/soytony/FreSCo)  
+
+    - **`Handcraft`** **`TRO`** Scan Context++: Structural Place Recognition Robust to Rotation and Lateral Variations in Urban Environments 🔥
   
-    - **`Learning`** **`ICRA`** LoGG3D-Net: Locally Guided Global Descriptor Learning for 3D Place Recognition [`pdf`](https://arxiv.org/abs/2109.08336) [`code`](https://github.com/csiro-robotics/LoGG3D-Net) 🔥
+    [![arXiv](https://img.shields.io/badge/arXiv-2109.13494-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2109.13494) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/scancontext_tro)  
+
+    - **`Learning`** **`ICRA`** LoGG3D-Net: Locally Guided Global Descriptor Learning for 3D Place Recognition 🔥
   
-    - **`Learning`** **`RAL/IROS`** OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition [`pdf`](https://arxiv.org/abs/2203.03397) [`code`](https://github.com/haomo-ai/OverlapTransformer) 🔥
+    [![arXiv](https://img.shields.io/badge/arXiv-2109.08336-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2109.08336) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/csiro-robotics/LoGG3D-Net)  
+
+    - **`Learning`** **`RAL/IROS`** OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition 🔥
   
-    - **`Learning`** **`CVPR`** BVMatch: Lidar-based Place Recognition Using Bird's-eye View Images [`pdf`](https://arxiv.org/abs/2109.00317) [`code`](https://github.com/zjuluolun/BVMatch) 🔥
-  
-    - **`Learning`** **`RAL`** RINet: Efficient 3D Lidar-Based Place Recognition Using Rotation Invariant Neural Network [`pdf`](https://ieeexplore.ieee.org/abstract/document/9712221) [`code`](https://github.com/lilin-hitcrt/RINet)
-  
-    - **`Learning`** **`TRO`** LCDNet: Deep Loop Closure Detection and Point Cloud Registration for LiDAR SLAM [`pdf`](https://arxiv.org/abs/2103.05056) [`code`](https://github.com/robot-learning-freiburg/LCDNet) 🔥
-  
-    - **`Learning`** **`ICPR`** Improving Point Cloud Based Place Recognition with Ranking-based Loss and Large Batch Training [`pdf`](https://arxiv.org/abs/2203.00972) [`code`](https://github.com/jac99/MinkLoc3Dv2) 🔥
-  
-    - **`Learning`** **`IROS`** InCloud: Incremental Learning for Point Cloud Place Recognition [`pdf`](https://arxiv.org/abs/2203.00807) [`code`](https://github.com/csiro-robotics/InCloud)
-  
-    - **`Learning`** **`TIE`** SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data [`pdf`](https://arxiv.org/abs/2209.07951) [`code`](https://github.com/BIT-MJY/SeqOT) 🔥
+    [![arXiv](https://img.shields.io/badge/arXiv-2203.03397-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2203.03397) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/haomo-ai/OverlapTransformer)  
+
+    - **`Learning`** **`CVPR`** BVMatch: Lidar-based Place Recognition Using Bird's-eye View Images 🔥
+
+    [![arXiv](https://img.shields.io/badge/arXiv-2109.00317-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2109.00317) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/zjuluolun/BVMatch)  
+
+    - **`Learning`** **`RAL`** RINet: Efficient 3D Lidar-Based Place Recognition Using Rotation Invariant Neural Network
+
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/9712221) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/lilin-hitcrt/RINet)  
+
+    - **`Learning`** **`TRO`** LCDNet: Deep Loop Closure Detection and Point Cloud Registration for LiDAR SLAM 🔥
+
+    [![arXiv](https://img.shields.io/badge/arXiv-2103.05056-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2103.05056) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/robot-learning-freiburg/LCDNet)  
+
+    - **`Learning`** **`ICPR`** Improving Point Cloud Based Place Recognition with Ranking-based Loss and Large Batch Training 🔥
+
+    [![arXiv](https://img.shields.io/badge/arXiv-2203.00972-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2203.00972) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/jac99/MinkLoc3Dv2)  
+
+    - **`Learning`** **`IROS`** InCloud: Incremental Learning for Point Cloud Place Recognition 
+
+    [![arXiv](https://img.shields.io/badge/arXiv-2203.00807-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2203.00807) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/csiro-robotics/InCloud)  
+
+    - **`Learning`** **`TIE`** SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data 🔥
+
+    [![arXiv](https://img.shields.io/badge/arXiv-2209.07951-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2209.07951) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/BIT-MJY/SeqOT)  
 
 
 - 2021
