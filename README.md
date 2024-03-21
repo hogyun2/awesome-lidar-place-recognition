@@ -23,6 +23,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 
 ## News
+**`24.03.20`**  First pull request! 
 **`24.03.19`**  First commit! 
 
 
