@@ -58,6 +58,10 @@ Finally, **various algorithms** that play an important role in Place Recognition
   
     [![arXiv](https://img.shields.io/badge/arXiv-2209.12435-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2209.12435) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/hku-mars/STD)  
 
+  - **`Handcraft`** **`ICRA`** Contour Context: Abstract Structural Distribution for 3D LiDAR Loop Detection and Metric Pose Estimation 🔥
+  
+    [![arXiv](https://img.shields.io/badge/arXiv-2302.06149-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2302.06149) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/lewisjiang/contour-context)  
+
   - **`Learning`** **`ICCV`** BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images 🔥
   
     [![arXiv](https://img.shields.io/badge/arXiv-2302.14325-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2302.14325) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/zjuluolun/BEVPlace)  
