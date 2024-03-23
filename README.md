@@ -50,6 +50,10 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
     [![arXiv](https://img.shields.io/badge/arXiv-2309.00168-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2303.17778) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/rayguan97/crossloc3d) 
 
+  - **`Learning`** **`TRO`** Fast and Accurate Deep Loop Closing and Relocalization for Reliable LiDAR SLAM
+
+    [![arXiv](https://img.shields.io/badge/arXiv-2309.08086-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2309.08086) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/nubot-nudt/LCR-Net) 
+
 
 - 2023
 
@@ -215,6 +219,11 @@ Finally, **various algorithms** that play an important role in Place Recognition
 ## LiDAR Place Recognition Datasets
 
 - 2024
+
+  - **`Single/Multi`** **`CVPR`** **`OS1-128`** **`OS1-64`** **`Mid-70`** MCD: Diverse Large-Scale Multi-Campus Dataset for Robot Perception 🤖 🧔
+
+    [![arXiv](https://img.shields.io/badge/arXiv-2403.11496-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2403.11496) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://mcdviral.github.io/)
+
   - **`Single/Multi`** **`IJRR`** **`OS2-128`** **`VLP-16`** **`Livox-Avia`** **`Aeva`** Heterogeneous LiDAR Dataset for inter-LiDAR Place Recognition 🚙
 
     [![arXiv](https://img.shields.io/badge/arXiv-2309.14590-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2309.14590) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://sites.google.com/view/heliprdataset)
@@ -336,6 +345,10 @@ Finally, **various algorithms** that play an important role in Place Recognition
   - **`SLAM Framework`** **`IEEE/ASME Transactions on Mechatronics`** DLC-SLAM: A Robust LiDAR-SLAM System With Learning-Based Denoising and Loop Closure 🔥
 
     [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/10092189) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/KangchengLiu/DLC_LiDAR_SLAM)  
+
+  - **`SLAM Framework`** **`ICRA`** Real-Time Simultaneous Localization and Mapping with LiDAR intensity 🔥
+
+    [![arXiv](https://img.shields.io/badge/arXiv-2301.09257-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2301.09257)[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MISTLab/Intensity_based_LiDAR_SLAM)  
 
 - 2022
 
