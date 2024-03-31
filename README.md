@@ -34,6 +34,10 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 - 2024
 
+  - **`Handcraft`** **`TIM`** OSK: A Novel LiDAR Occupancy Set Key-Based Place Recognition Method in Urban Environment
+    
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/10464375) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ZhangZh3ng/Occupancy-Set-Key)  
+    
   - **`Handcraft`** **`ICRA`** Effectively Detecting Loop Closures using Point Cloud Density Maps 🔥
     
     [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/gupta2024icra.pdf) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/PRBonn/MapClosures)  
