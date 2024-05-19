@@ -60,7 +60,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   - **`Learning`** **`Arxiv`** OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2405.07966-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2405.07966) [![GitHub](https://github.com/SCNU-RISLAB/OverlapMamba) 
+    [![arXiv](https://img.shields.io/badge/arXiv-2405.07966-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2405.07966) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/SCNU-RISLAB/OverlapMamba) 
 
 
 - 2023
