@@ -52,11 +52,15 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   - **`Learning`** **`ICCV`** CrossLoc3D: Aerial-Ground Cross-Source 3D Place Recognition
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2309.00168-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2303.17778) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/rayguan97/crossloc3d) 
+    [![arXiv](https://img.shields.io/badge/arXiv-2303.17778-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2303.17778) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/rayguan97/crossloc3d) 
 
   - **`Learning`** **`TRO`** Fast and Accurate Deep Loop Closing and Relocalization for Reliable LiDAR SLAM
 
     [![arXiv](https://img.shields.io/badge/arXiv-2309.08086-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2309.08086) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/nubot-nudt/LCR-Net) 
+
+  - **`Learning`** **`Arxiv`** OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition
+
+    [![arXiv](https://img.shields.io/badge/arXiv-2405.07966-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2405.07966) [![GitHub](https://github.com/SCNU-RISLAB/OverlapMamba) 
 
 
 - 2023
