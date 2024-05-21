@@ -24,7 +24,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 ## News
 
-**`24.05.21`** Merged [awesome-lidar packages](https://github.com/szenergy/awesome-lidar)!
+**`24.05.21`** Merged [awesome-lidar repository](https://github.com/szenergy/awesome-lidar)!
 
 **`24.03.20`**  First pull request! 
 
