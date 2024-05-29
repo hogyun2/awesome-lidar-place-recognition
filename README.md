@@ -5,6 +5,7 @@
 <div>
 
 </div>
+
 ![image](awesome-lidar-place-recognition.gif)
 </div>
 
