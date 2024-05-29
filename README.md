@@ -3,7 +3,6 @@
     <br>
     <br>
 <div>
-[Awesome](https://awesome.re/badge.svg)(https://awesome.re)
 </div>
 
 ![image](awesome-lidar-place-recognition.gif)
