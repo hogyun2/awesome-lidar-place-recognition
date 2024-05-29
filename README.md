@@ -1,5 +1,13 @@
-# Awesome LiDAR Place Recognition [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+    <h1>Awesome LiDAR Place Recognition </h1>
+    <br>
+    <br>
+<div>
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+
 ![image](awesome-lidar-place-recognition.gif)
+</div>
 
 > Thumbnail Figures from Complex Urban, Wild-Places, and DiTer datasets / our place recognition method (TBD) / DiSCo-SLAM.  
 
