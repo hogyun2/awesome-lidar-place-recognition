@@ -32,6 +32,8 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 ## News
 
+**`24.08.18`** Update 3 papers (BEVPlace++, RangePlace, SOLiD)
+
 **`24.05.21`** Merged [awesome-lidar repository](https://github.com/szenergy/awesome-lidar)!
 
 **`24.03.20`**  First pull request! 
@@ -44,6 +46,10 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 - 2024
 
+  - **`Handcraft`** **`RAL`** Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition
+    
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/10629042) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/sparolab/solid)  
+
   - **`Handcraft`** **`TIM`** OSK: A Novel LiDAR Occupancy Set Key-Based Place Recognition Method in Urban Environment
     
     [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/10464375) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ZhangZh3ng/Occupancy-Set-Key)  
@@ -55,6 +61,14 @@ Finally, **various algorithms** that play an important role in Place Recognition
   - **`Handcraft`** **`TRO`** BTC: A Binary and Triangle Combined Descriptor for 3D Place Recognition 🔥
 
      [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10388464) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/hku-mars/btc_descriptor)  
+
+  - **`Learning`** **`TIV`** RangePlace: A Hierarchical Range Image Transformer for LiDAR-Based Place Recognition
+
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/10634124) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/JiLiBIT/RangePlace)  
+
+  - **`Learning`** **`TRO`** BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles 🔥
+
+    [![arXiv](https://img.shields.io/badge/arXiv-2408.01841-b31b1b.svg?style=flat-square)](https://www.arxiv.org/abs/2408.01841) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/zjuluolun/BEVPlace)
 
   - **`Learning`** **`RAL`** P-GAT: Pose-Graph Attentional Network for Lidar Place Recognition
 
