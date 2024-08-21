@@ -32,7 +32,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 ## News
 
-**`24.08.18`** Update 3 papers (BEVPlace++, RangePlace, SOLiD)
+**`24.08.18`** Update 3 papers (BEVPlace++, RangePlace, NDTMC, SOLiD)
 
 **`24.05.21`** Merged [awesome-lidar repository](https://github.com/szenergy/awesome-lidar)!
 
@@ -61,6 +61,10 @@ Finally, **various algorithms** that play an important role in Place Recognition
   - **`Handcraft`** **`TRO`** BTC: A Binary and Triangle Combined Descriptor for 3D Place Recognition 🔥
 
      [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10388464) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/hku-mars/btc_descriptor)  
+
+  - **`Handcraft`** **`IROS`** NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM 🔥
+
+    [![arXiv](https://img.shields.io/badge/arXiv-2307.08221-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2307.08221) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/SlamCabbage/NDTMC)
 
   - **`Learning`** **`TIV`** RangePlace: A Hierarchical Range Image Transformer for LiDAR-Based Place Recognition
 
