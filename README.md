@@ -34,11 +34,18 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 **`24.08.18`** Update 3 papers (BEVPlace++, RangePlace, NDTMC, SOLiD)
 
+<details>
+<summary>Previous</summary>
+<div markdown="1">
+
 **`24.05.21`** Merged [awesome-lidar repository](https://github.com/szenergy/awesome-lidar)!
 
 **`24.03.20`**  First pull request! 
 
 **`24.03.19`**  First commit! 
+
+</div>
+</details>
 
 
 
